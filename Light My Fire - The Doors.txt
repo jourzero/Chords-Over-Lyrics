@@ -2,7 +2,7 @@ Light My Fire
 Artist: The Doors
 Key: Am
 # Adjusted duration for better autoscroll timing
-#Duration: 7:06
+# Duration: 7:06
 Duration: 2:50
 Tempo: 125
 

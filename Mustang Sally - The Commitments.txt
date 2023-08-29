@@ -1,7 +1,7 @@
 Mustang Sally
 Artist: The Commitments
 # Adjusted duration for better autoscroll timing
-#Duration: 4:05
+# Duration: 4:05
 Duration: 4:15
 Key: C
 Tempo: 115

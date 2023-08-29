@@ -1,7 +1,7 @@
 Dancing In The Dark
 Artist: Bruce Springsteen
 # Adjusted duration for better autoscroll timing
-#Duration: 4:02
+# Duration: 4:02
 Duration: 3:00
 Key: B
 TransposedKey: A
