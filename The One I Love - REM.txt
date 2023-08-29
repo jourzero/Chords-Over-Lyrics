@@ -5,11 +5,11 @@ Key: Em
 Tempo: 127
 
 INTRO:
-        Em      Dsus2  Em (Esus4) Em 
-(drums) (guitar riff)  .          .
+             Em      Dsus2  Em (Esus4) Em 
+&red:(drums) (guitar riff)
 
-Em  Dsus2  Em Em 
-.   .      .  . 
+     Em      Dsus2  Em (Esus4) Em 
+&red:(guitar riff)
 
 VERSE1:
 

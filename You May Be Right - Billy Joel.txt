@@ -8,10 +8,10 @@ INTRO:
 &red:(breaking glass)
 
 A       A     A    A 
-(guitar riff)      (+drums)
+&red:(guitar riff)      (+drums)
 
 A        A    A    A 
-(+bass)
+&red:(+bass)
 
 
 VERSE 1:
@@ -69,7 +69,6 @@ You were lonely for a man, I said take me as I am
 
            E                E             A      A 
 'Cause you might enjoy some madness for a while. 
-
 VERSE 4:
     A                A                  A               A          
 Now think of all the years you tried to find someone to satisfy you
@@ -97,11 +96,11 @@ It's too late to fight,  it's too late to change
 &yellow:You may be wrong for all I know, but you may be right.
 
 SOLO:
-A       A A A A A  E  E 
-(guitar)              
+      A      A     A   A   A   A  E  E 
+&red:(guitar solo)              
 
-Bm     Bm G  G E  E  A  A(NC) 
-(sax)                   
+     Bm   Bm     G   G   E  E  A  A(NC) 
+&red:(sax solo)                   
 
 CHORUS 3:
            E      (NC)      A     (NC)
@@ -130,6 +129,6 @@ A                     A
 You may be wrong, but you may be right.
 
      A
-&red:END: guitar riff once
+&red:(guitar riff once) (END)
 
 

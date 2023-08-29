@@ -7,10 +7,10 @@ TransposedKey: C
 
 INTRO:
 G         G(3)    F(1)       C         C(3)    F(1) 
-(acoustic guitar)
+&red:(acoustic guitar)
 
 G         G(3)    F(1)       C         C(3)    F(1) 
-(acoustic guitar)
+&red:(acoustic guitar)
 
 VERSE 1:
 G                        G(3)                       F(1)
@@ -26,7 +26,7 @@ C                      C(3)                F(1)
 And points all her own sittin' way up high 
 
 G          G(3)   F(1)
-(+guitar2)
+&red:(+guitar2)
 
 C               C(3)   F(1)
 way up firm and high. 
@@ -64,7 +64,7 @@ G              G(3)       F(1)
  In the sweet, summertime   
 
 C              C(3)   F(1)
-(instrumental) 
+&red:(instrumental) 
 
 VERSE 2:
 G                   G(3)            F(1)
@@ -111,14 +111,14 @@ G       G(3)                  F(1)
  Sweet, summertime, summertime      
 
 C               C(3) F(1)
-(instrumental)
+&red:(instrumental)
 
 INTERLUDE:
 Em              Em(3)  Em7(1) 
-(instrumental)
+&red:(instrumental)
 
 G              G7 
-(instrumental)
+&red:(instrumental)
 
 BRIDGE:
 Cmaj7 Cmaj7 G       G 
@@ -162,7 +162,7 @@ C Cmaj7                       G  G
 
 BRIDGE:
 G          G(3)    F(1) 
-(accoustic guitar)
+&red:(accoustic guitar)
 
 C   C(3)      F(1) 
           Hmm  
