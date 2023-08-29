@@ -65,38 +65,38 @@ CHORUS 2:
 Dm
 &red:(to solo)
 
-GUITAR SOLO:
-Dm       Dm Dm Dm
-&red:(guitar)
+SOLO:
+     Dm      Dm    Dm   Dm
+&red:(guitar solo)
 
-Dm       Dm Dm Dm
-&red:(guitar)
+     Dm      Dm    Dm   Dm
+&red:(guitar solo)
 
-Dm9      Dm9 Dm  Dm
-&red:(guitar)
+     Dm9     Dm9   Dm   Dm
+&red:(guitar solo)
 
-Dm9      Dm9 Dm Dm
-&red:(guitar)
+     Dm9     Dm9   Dm   Dm
+&red:(guitar solo)
 
-G/D      G/D F9/D F9/D
-&red:(guitar)
+     G/D     G/D   F9/D  F9/D
+&red:(guitar solo)
 
-G/D       G/D F9/D F9/D
-&red:(guitar)
+     G/D     G/D   F9/D   F9/D
+&red:(guitar solo)
 
-G/D      G/D  Bb/D  Bb/D  
-&red:(guitar)
+     G/D     G/D   Bb/D  Bb/D  
+&red:(guitar solo)
 
-C/D      C/D   
-(guitar)
+     C/D     C/D   
+&red:(guitar solo)
+
+OUTRO:
 
      Dm    
-&red:(drums and bass only)
+&red:(drums+bass only + singer complaining...)
 
-OUTRO (dialog):
-&yellow:(Guy) Wrong, do it again. Wrong, do it again.
+Dm                          Dm
+If you don't eat your meat, you can't have any pudding!
 
-&yellow:(Eric) If you don't eat your meat, you can't have any pudding!
-&yellow:(Eric) How can you have any pudding if you don't eat your meat?
-
-&yellow:(Rick) You! Yes! You, behind the bike sheds! Stand still, laddie!
+Dm                           Dm
+How can you have any pudding if you don't eat your meat?! (END)
