@@ -1,0 +1,173 @@
+Sweet Caroline
+Artist: Neil Diamond
+Duration: 3:20
+Key: C
+Tempo: 128
+TransposedKey: C
+
+INTRO:
+G          G   
+&red:(guitar)     
+
+G       G                  
+&red:(+brass notes) 
+
+G      G       G
+&red:(brass chords) 
+
+VERSE 1:
+C         C      
+ Where it began, 
+
+F        F
+ I can't begin to knowin'
+
+C           C                 
+ But then I know it's growing 
+
+G      G
+strong
+
+C           C       
+ Was in the spring, 
+
+F             F
+ and spring became the summer
+
+C             C                   
+ Who'd have believed you'd come 
+
+G      G
+along.
+
+
+BRIDGE:
+C       C  
+ Hands, 
+
+Am/C            Am/C
+ touchin' hands 
+
+G              G   
+ Reachin' out, 
+
+F             F    
+ Touchin' me, 
+
+         G         G             
+Touchin'  you 
+
+
+CHORUS 1:
+        C          F 
+&yellow:(Sweet Caroline)   
+
+F           F               
+ good times never seemed so 
+
+G                  G
+good  (So Good, So Good, So Good)
+
+C            F                                
+ I've been inclined,  
+
+F      F
+  to believe they never
+
+G(2)    F(2) Em(2)  Dm(2)
+ would  but  now    I... 
+
+
+VERSE 2:
+C            C
+ Look at the night,  
+
+F             F
+ And it don't seem so lonely
+
+C           C
+ We fill it up with only 
+
+G     G
+two.
+
+C           C
+ And when I hurt,  
+
+F             F
+ Hurtin' runs off my shoulders
+
+C         C
+How can I hurt when holding 
+
+G     G
+you?
+
+
+BRIDGE:
+C     C
+ Warm, 
+
+Am/C           Am/C
+ touchin' warm
+
+G              G
+ Reachin' out,  
+
+F             F         
+ touchin' me,  touchin'  
+
+G    G
+you.
+
+CHORUS 2:
+        C          F 
+&yellow:(Sweet Caroline),  
+
+F           F               
+ good times never seemed so 
+
+G                       G
+good (So Good, So Good, So Good)
+
+C           F
+I've been inclined,  
+
+F     F
+ to believe they never
+
+G(2)    F(2) Em(2) Dm(2)
+ would  Oh,  no,   no. 
+
+
+INSTRUMENTAL:
+G        G                  
+&red:(guitar)
+
+G        G                  
+&red:(+synth)
+
+G        G            G
+.        Last chorus, sing with me!
+
+
+OUTRO:
+        C         F    
+&yellow:Sweet Caroline,  
+
+F           F               G
+ Good times never seemed so good
+
+                           G
+&yellow:(So Good, So Good, So Good)
+
+        C           F        
+&yellow:I've been inclined,  
+
+F     F                G              
+ to believe they never would 
+
+&red: Play next chords slowly...
+
+        G(3)         C(1) C
+&yellow:Sweet Caro---li---ne! (END)

@@ -1,0 +1,133 @@
+I Want To Break Free
+Artist: Queen
+# Adjusted duration for better autoscroll timing
+# Duration: 3:21
+Duration: 3:41
+Key: E
+Tempo: 110
+TransposedKey: Bb
+
+INTRO:
+E       E         E      (NC)
+&red:(guitar strumming)       
+
+VERSE:
+                E     E          E          
+I want to break free,  I want to break free,
+
+E                E                  
+ I want to break free from your lies
+
+          E                       A        
+You're so self satisfied, I don't need you.
+
+A                 E    E 
+I've got to break free 
+
+            B      
+&yellow:God knows, 
+
+A                         E   
+God knows I want to break free
+
+VERSE 2:
+         (NC)           E    
+&yellow: I've fallen in love
+
+E               E
+ I've fallen in love for the first time, 
+
+E                         A   
+this time I know it's for real
+
+A              E          
+I've fallen in love, yeah.
+
+E    B      A              E         E  
+ God knows, God knows I've fallen in love
+
+BRIDGE:
+     B                A         
+It's strange but it's true. Hey!
+
+B                                   
+I can't get over the way you love me
+
+A                 C#m                 
+like you do but I have to be sure when
+
+F#sus4(2)       F#(2)
+I walk out that door
+
+A(2)       B(2)       C#m(3)      B(1)
+ Oh, how I want to be free, baby.  Oh, how I
+
+A(2)       B(2) C#m(3)  B(1)
+want to be free     
+
+A(2)      B(2)          E    (NC)
+Oh, how I want to break free.
+
+SOLO:
+E       E    E    E 
+&red:(synth)
+
+A       A    E    E 
+&red:(synth)
+
+B       A    E    (NC)
+&red:(synth)           (wait for portamento end)
+
+INTERLUDE:
+E      E(3)    Esus4(1)   E   E 
+&red:(synth chords)
+
+A6(2)  A(2)    A(3) A6(1)   E    E 
+&red:(synth chords)
+
+B      A      E     E 
+&red:(synth chords)
+
+B      A       E     (NC)
+&red:(synth chords)       
+
+VERSE 3:
+                    E  
+But life still goes on.
+
+E(3)                 Esus4(1) 
+ I can't get used to living
+
+E                                      
+without, living without, living without
+
+E         A6(2) A(2) 
+you by my side. 
+
+        A(3)    A6(1) E      E  
+I don't want to live  alone, hey
+
+    B     A                    E   E 
+God knows got to make it on my own.
+
+OUTRO:
+                   B    A                  E    
+So baby, can't you see?  I've got to break free.
+
+(NC)               E    
+ I've got to break free.
+
+E                E     E    
+ I want to break free, yeah.
+
+E              E 
+&red:(instrumental)
+
+E                       
+ I want, I want, I want,
+
+E                E    
+ I want to break free.
+
+E   E 
+&red:    (end)

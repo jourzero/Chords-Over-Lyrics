@@ -1,0 +1,176 @@
+Don't Stop Believin'
+Artist: Journey
+Key: E
+TransposedKey: C
+Tempo: 121
+# Adjusted duration for better autoscroll timing
+# Duration: 4:10
+Duration: 3:50
+
+INTRO:
+E        B      C#m7     A             
+&red:(piano + bass)
+
+E        B      G#m      A              
+&red:(piano + bass)
+
+VERSE 1:
+E       B               
+ Just a small town girl  
+ 
+C#m7         A                   
+ livin' in a lonely world.
+
+E             B                    
+ She took the midnight train goin' 
+ 
+G#m A        
+any-where.
+
+E       B        
+ Just a city boy 
+
+C#m7                A                    
+ born and raised in South Detroit.
+
+E            B                    
+ He took the midnight train goin' 
+
+G#m A      
+any-where.
+
+BREAK:
+     E               B C#m7 A 
+&red:(+lead guitar)
+
+E               B G#m A 
+&red:(instrumental)
+
+VERSE 2:
+E              B          
+ A singer in a smoky room. 
+ 
+C#m7                 A                    
+ A smell of wine and cheap perfume.
+
+E                     B                       
+ For a smile they can share the night.
+
+        G#m                A        
+It goes on and on, and on, and on.
+
+CHORUS 1:
+        B/A(2) A(2) B/A(2) E/A(2)
+&yellow:Stran- gers wait-  ing
+
+B/E(2)  E(2)            B/E(2) E(2)
+        Up and down the boule- vard,
+
+              B/A(2) A(2) B/A(2) E/A(2)
+&yellow:their sha-   dows sear-  ching
+
+       B/E(2) E(2)  B/E(2)  E(2)
+in the night.
+
+        B/A(2) A(2)    B/A(2) E/A(2)
+&yellow:Street-lights, peo-   ple
+
+B/E(2) E(2)           B/E(2) E(2)
+       Living just to find   emotion
+
+        B/A(2) A(2) B/A(2) E/A(2)
+&yellow:Hi-    ding some-  where
+
+       B(2) E(2) B(1) E(1) A(2)
+in the niiiiiiiiiiiiiiiiiiiiiiight        
+
+BREAK:
+E              B    C#m7    A 
+&red:(instrumental)
+
+&red:*(skip 2nd chord sequence)
+
+VERSE 3:
+E                B          
+ Working hard to get my fill
+
+C#m7          A             
+    Everybody wants a thrill
+
+E                   B            
+ Payin' anything to roll the dice
+
+     G#m          A 
+Just one more time
+
+E              B              
+ Some will win, some will lose
+
+C#m7                  A             
+    Some were born to sing the blues
+
+E              B       
+ Oh, the movie never ends
+
+        G#m                A         
+It goes on and on, and on, and on
+
+CHORUS 2:
+        B/A(2) A(2) B/A(2) E/A(2)
+&yellow:Stran- gers wait-  ing
+
+B/E(2)  E(2)            B/E(2) E(2)
+        Up and down the boule- vard,
+
+              B/A(2) A(2) B/A(2) E/A(2)
+&yellow:their sha-   dows sear-  ching
+
+       B/E(2) E(2)  B/E(2)  E(2)
+in the night.
+
+        B/A(2) A(2)    B/A(2) E/A(2)
+&yellow:Street-lights, peo-   ple
+
+B/E(2) E(2)           B/E(2) E(2)
+       Living just to find   emotion
+
+        B/A(2) A(2) B/A(2) E/A(2)
+&yellow:Hi-    ding some-  where
+
+       B(2) E(2) B(1) E(1) A(2)
+in the niiiiiiiiiiiiiiiiiiiiiiight    
+
+GUITAR SOLO:
+E        B    C#m7   A 
+&red:(solo)
+
+E        B    G#m   A 
+                      Sing with me.
+
+OUTRO:
+        E          B      
+&yellow:Don't stop believin'
+
+C#m7               A      
+    Hold on to the feelin' (a-ee-in') 
+
+        E             B     
+&yellow:Streetlights, people (oh-oh-oooooh)
+
+        G#m A E          B      
+&yellow:      Don't stop believin'
+
+C#m7       A 
+    Hold on (ooh-oh-oooon)
+
+&red:(end after "Thank you"...)
+
+E             B        
+&yellow:Streetlights, people.  
+
+G#m       A 
+Thank you for singing with me!
+
+         E
+&yellow: Don't Stop! (END)
+

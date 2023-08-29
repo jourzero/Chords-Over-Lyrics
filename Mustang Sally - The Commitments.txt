@@ -1,0 +1,199 @@
+Mustang Sally
+Artist: The Commitments
+# Adjusted duration for better autoscroll timing
+#Duration: 4:05
+Duration: 4:15
+Key: C
+Tempo: 115
+
+INTRO:
+C      C    
+&red:(instrumental)
+
+C      C    
+&red:(instrumental)
+
+# At 0:07
+VERSE 1:
+        C     C 
+Mustang Sally,
+
+C                  C                
+  Guess you better slow that Mustang
+
+C     C  
+down.
+
+C     C 
+&red:(instrumental)
+
+        F               F 
+Mustang Sally, now baby.
+
+F                  F                           
+  Guess you better slow that Mustang
+
+C    C  
+down.     
+
+C    C 
+&red:(instrumental)
+
+         G                G     (F# F)
+You been running all over town.       (STOP)
+
+(NC)                  (NC)
+Oh I guess you got to put your flat feet
+
+C              C                                              
+on the ground.
+
+C                                 C
+Sing it to 'em all the time girls.
+
+# At 00:58
+CHORUS 1:
+C                   C                 
+All you wanna do is ride around Sally.
+
+        C                 C 
+&yellow:(ride Sally ride) 
+
+C                   C                 
+All you wanna do is ride around, Sally
+
+        C                   C        
+&yellow:(ride Sally ride)  
+
+F                   F                 
+All you wanna do is ride around Sally.
+
+        F                 F 
+&yellow:(ride Sally ride) 
+
+C                   C                 
+All you wanna do is ride around Sally.
+
+        C                 C 
+&yellow:(ride Sally ride) 
+
+G                  G         F  
+One of these early mornings. 
+
+(NC)         (NC)
+I'm gonna be wiping those weeping
+
+C             C     
+eyes. Yeeeah. Heeey.
+
+C         C  
+Allright!
+
+# At 1:48
+VERSE 2:
+C                        C       
+I bought you a brand new Mustang. (boooooought)
+
+C              C 
+It was a 1965. 
+
+C                   C                
+Now you come around signifying woman,
+
+C                         C          
+girl you won't, you won't let me ride
+&yellow:                  ain't gonna let you ride
+
+F                       F               
+Mustang Sally, now baby (silly me baby).
+
+F                F                
+Guess you better slow that Mustang
+
+C      C  
+down.  (da-ah-ah-ah-ah-own) 
+
+C         C 
+Allright.
+
+G                         G     F  
+You been running all over town. 
+
+(NC)                  (NC)
+Oh, I guess I have to put your flat feet
+
+C               C                                          
+off the ground. Ah yeah baby, you gotta put your flat feeeet
+
+C     C  
+      Take it away Rick!          
+
+SOLO:
+C        C   C   C   C   C   C   C
+&red:(guitar)
+
+F        F   F   F   C   C   C   C
+&red:(guitar)
+
+G        G   F   F
+&red:(guitar)         
+
+&orange:*(Press PAUSE/PLAY pedal)
+
+# At 2:38
+CHORUS 2:
+C                   C                 
+All you wanna do is Ride around Sally.
+
+        C                 C 
+&yellow:(ride Sally ride) 
+
+C                   C                 
+All you wanna do is ride around Sally.
+
+        C                 C            
+&yellow:(ride Sally ride)   
+
+F                               F     
+All you wanna do is ride around Sally.
+
+        F                 F           
+&yellow:(ride Sally ride)   
+
+C                   C                 
+All you wanna do is ride around Sally.
+
+        C                C 
+&yellow:(ride Sally ride) 
+
+G                  G         F    
+One of these early mornings. (stop)
+
+(NC)         (NC)
+I'm gonna be wiping those weeping
+
+C      C                 
+eyes.    Ah yeah babe.
+
+C              C       
+ Come on boss. 
+
+# At 3:28
+OUTRO:
+              C             C    
+Those weepin’ eyes, oh yeah babe, (Sally)
+
+C                  C       
+those weepin’ eyes (Sally)
+
+              C                  C             
+Those weepin’ eyes, (Sally) yeah yeah, (Sally) oh those
+
+C             C       
+weepin’ eyes 
+
+              C                   C            
+Those weepin’ eyes, (Sally) those weepin’ eyes, (Sally)
+
+C                      C  C  
+ohhhh yeah, yeah yeah.      (END)

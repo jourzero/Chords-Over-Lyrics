@@ -1,0 +1,175 @@
+﻿Burning Love
+Artist: Elvis Presley
+# Adjusted duration for better autoscrolling
+# Duration: 2:57
+Duration: 2:30
+Key: D
+Tempo: 143
+
+INTRO:
+D        D        
+&red:(guitar) (+piano) 
+
+D       D  
+&red:(+bass) (+drums)
+
+VERSE 1:
+D                G(2)    A(2)        
+Lord Almighty, I feel my temperature 
+
+D      D
+rising.
+
+D                       G(2)    A(2)          
+Higher and higher, it's burning through to my 
+
+D    D
+soul.
+
+D                 G(2)         A(2)            
+Girl, girl, girl, you're gonna set me on fire.     
+
+D   D
+.   Ummm
+
+D                    G(2)               A(2)   
+My brain is flamin', I don't know which way to 
+
+D   D
+go.
+
+CHORUS 1:
+     Bm(2)  A(2)    G     
+Your kisses lift me higher 
+&yellow:     Haaa Haaa Haaa
+
+         Bm(2) A(2)      G     
+like the sweet song of a choir. 
+&yellow:     Haaa Haaa Haaa
+
+    Bm(2)    A(2)          G(2)
+You light my morning sky 
+&yellow:     Haaa Haaa Haaa
+
+             A(2)    D     D    
+&yellow:With burning love
+
+VERSE 2:
+D            G(2)      A(2)        
+Ooh hoo hoo, I feel my temperature 
+
+D       D
+rising.
+
+D                      G(2)      A(2)        
+Help me I'm flamin', I must be a hundred and 
+
+D     D
+nine
+
+D                 G(2)         A(2)        
+Burnin', burnin', burnin', and nothing can 
+
+D        D
+cool me.
+
+  D                    G(2)         A(2) 
+I just might turn into smoke, but I feel 
+
+D     D
+fine.
+
+
+   CHORUS 2:
+            Bm(2)  A(2)    G     
+'Cause your kisses lift me higher 
+&yellow:       Haaa Haaa Haaa
+
+         Bm(2) A(2)      G     
+like the sweet song of a choir. 
+&yellow:       Haaa Haaa Haaa
+
+        Bm(2)    A(2)    G(2)
+And you light my morning sky 
+&yellow:     Haaa Haaa Haaa
+
+     A(2)    D     D   
+With burning love 
+&yellow:With burning love
+
+INSTRUMENTAL:
+        Bm(2) A(2) G
+&yellow:Haaa  Haaa Haaa
+
+        Bm(2) A(2) G
+&yellow:Haaa  Haaa Haaa
+
+        Bm(2) A(2) G(2)    
+&yellow:Haaa  Haaa Haaa. 
+
+             A(2)    D     D                        
+&yellow:With burning love    
+
+VERSE 3:
+D                   G(2)           A(2)       
+It's coming closer, flames are now licking my 
+
+D     D
+body.
+
+D                    G(2)     A(2)     
+Won't you help me, I feel I'm slipping 
+
+D    D
+away
+
+D                     G(2)          A(2)     
+It's hard to breathe, my chest is a-heavin'.
+     
+D   D
+    Hmmm Hmmm
+
+D                    G(2)      A(2)         
+Lord have mercy, I'm burning a hole where I 
+
+D    D   
+lay, yeah
+
+CHORUS 3:
+     Bm(2)  A(2)    G     
+Your kisses lift me higher
+&yellow:    Haaa Haaa Haaa
+
+         Bm(2) A(2)      G     
+like the sweet song of a choir.
+&yellow:      Haaa Haaa Haaa
+
+    Bm(2)    A(2)    G(2)
+You light my morning sky
+&yellow:    Haaa Haaa Haaa
+
+     A(2)    D     D                        
+With burning love    with burning love 
+
+OUTRO: 
+        D                         G        
+&yellow:Burn, Burn, Burning love. (aaah)
+
+           D                   G    
+I'm just a hunka hunka burning love. 
+&yellow:           hunka hunka burning love (aaah).
+
+       D                   G                  
+Just a hunka hunka burning love 
+&yellow:              hunka hunka burning love (aaah).
+
+&red:*(ending below)
+
+     Bm(2)       A(2)    G(2)
+Oh a hunka hunka burning love
+
+A(2)    D        
+Burning loooove. 
+&yellow:             looooove. (END)
+
+/(Elvis:) Thank you, thank you very much...

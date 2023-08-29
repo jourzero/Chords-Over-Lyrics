@@ -1,0 +1,187 @@
+Against The Wind
+Artist: Bob Seger & The Silver Bullet Band
+# Adjusted duration for shorter ending
+# Duration: 5:33
+Duration: 4:20
+Key: G
+Tempo: 110
+
+INTRO:
+G       G
+&red:(instrumental)
+
+G       G
+&red:(instrumental)
+
+VERSE 1:
+G          G        
+Seems like yesterday
+
+Bm                   Bm 
+but it was long ago.  
+
+C                             G                  
+Janey was lovely, she was the queen of my nights,
+
+D                              C                 
+there in the darkness with the radio playin' low.
+
+G                       G     
+And the secrets that we shared
+
+Bm                          Bm 
+The mountains that we moved    
+
+C                             G       
+Caught like a wildfire out of control,
+
+C                                      
+Till there was nothing left to burn and
+
+                D      D 
+nothing left to prove.   
+
+BRIDGE:
+      Em(2)    D(2)             G  
+And I remember what she said to me.
+
+Em(2)                 C(2)        G   
+How she swore that it never would end.
+
+Em(2)              D(2)           C     
+I remember how she held me, oh so tight.
+
+C                             D                
+Wish I didn't know now what I didn't know then.
+
+CHORUS 1:
+        G           Bm   
+&yellow:Against the wind,
+
+C                           G    
+We were running against the wind.
+
+        C(2)      Bm(2)          
+We were young and strong, we were
+
+Am(2)   C(2)        G     
+running against the wind. 
+
+G      G        G 
+&red:(piano to verse 2)      
+
+VERSE 2:
+G                            G      
+ And the years rolled slowly passed.
+
+Bm                  Bm    
+ And I found myself alone.
+
+C                         G                       
+Surrounded by strangers I thought were my friends,
+
+D                                C            
+Found myself further and further from my home.
+
+      G               G    
+And I guess I lost my way. 
+
+Bm                     Bm         
+There were oh, so many roads.     
+
+      C                 G               
+I was living to run and running to live.
+
+      C                                  D            D
+Never worrying about paying, or even how much I owed.  
+
+BRIDGE:
+       Em(2)     D(2)                   G    
+Moving 8 miles a minute for months at a time,
+
+         Em(2)      C(2)                   G 
+Breaking all of the rules that would bend.   
+
+
+Em(2)      D(2)        C         
+I began to find myself searching,
+
+C                     D               
+searching for shelter again and again.
+
+CHORUS 2:
+         G           Bm    
+&yellow: Against the wind. 
+
+       C                 G        
+Little somethin' against the wind.
+
+        C(2)   Bm(2)   Am(2)   C(2)        
+I found myself seeking shelter against the 
+
+G     G      G  G    
+wind. (piano to solo)
+
+PIANO SOLO:
+G      G Bm Bm 
+&red:(piano)
+
+C      G D C 
+&red:(piano)
+
+G      G Bm Bm 
+&red:(piano)
+
+C      G C D D 
+&red:(piano)
+
+BRIDGE:
+           Em(2)     D(2)             G   
+Well those drifter's days are past me now,
+
+            Em(2)        C(2)  G     
+I've got so much more to think about.
+
+Em(2)     D(2) C           
+Deadlines and  commitments,
+
+C                 D                 
+what to leave in, what to leave out.
+
+CHORUS 3:
+        G           Bm   
+&yellow:Against the wind.
+
+C                             G     
+I'm still running against the wind. 
+
+            C(2)  Bm(2)        
+&yellow:I'm older now but still
+
+        Am(2)   C(2)        
+&yellow:running against the 
+
+G    G 
+wind.  
+
+OUTRO:
+          C(2)  Bm(2)         
+Well, I'm older now but still 
+
+D       D 
+running   
+
+            C       C 
+against the wind.
+
+                    G      G 
+&yellow:Against the wind.
+
+                    C 	    C
+&yellow:Against the wind.     
+
+&red:*(slow down)
+
+                    G      G
+&yellow:Against the wiiiiiiind. (END)
+

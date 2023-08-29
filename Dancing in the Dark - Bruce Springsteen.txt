@@ -1,0 +1,185 @@
+Dancing In The Dark
+Artist: Bruce Springsteen
+# Adjusted duration for better autoscroll timing
+#Duration: 4:02
+Duration: 3:00
+Key: B
+TransposedKey: A
+Tempo: 145
+
+INTRO:
+B            B B B 
+&red:(synth riff)
+
+B            B B B 
+&red:(synth riff)     
+
+VERSE:
+B               B
+I get up in the evening
+
+B           B                 
+and I ain't got nothing to say
+
+B                  B      
+I come home in the morning
+
+B           B                   
+I go to bed feeling the same way
+
+E                   C#m   
+I ain't nothing but tired,
+
+E            C#m                 
+man I'm just tired and bored with
+
+B                 G#m  
+myself. Hey there baby,
+
+B       G#m                   
+I could use just a little help
+
+CHORUS:
+        F#                F#   
+&yellow:You can't start a fire,
+
+        F#                F#                  
+&yellow:you can't start a fire without a spark
+
+        E              C#m 
+&yellow:This gun's for hire
+
+        E                  C#m                
+&yellow:even if we're just dancing in the dark
+
+INSTRUMENTAL:
+B            B B B 
+&red:(synth riff)     
+
+VERSE 2:
+B                     B              
+Messages keep getting clearer 
+
+B                  B                     
+radio's on and I'm moving 'round my place
+
+B                      B
+I check my look in the mirror,
+
+B               B                        
+wanna change my clothes, my hair, my face
+
+E                   C#m     
+Man I ain't getting nowhere,
+
+E        C#m                       
+I'm just living in a dump like this
+
+B                           G#m      
+There's something happening somewhere
+
+B    G#m                      
+baby I just know that there is
+
+CHORUS:
+        F#                F#   
+&yellow:You can't start a fire,
+
+        F#                F#                  
+&yellow:you can't start a fire without a spark
+
+        E              C#m 
+&yellow:This gun's for hire
+
+        E                  C#m                
+&yellow:even if we're just dancing in the dark
+
+INSTRUMENTAL:
+B            B B B 
+&red:(synth riff)     
+
+B            B B B 
+&red:(synth riff)     
+
+BRIDGE:
+G#m                    B     
+You sit around getting older,
+
+E                   F#                      
+there's a joke here somewhere and it's on me
+
+G#m                         B         
+I'll shake the world off my shoulders,
+
+E                        F#   
+come on baby the laugh's on me
+
+VERSE 3:
+B                      B        
+Stay on the streets of this town
+
+B              B                       
+and they'll be carving you up all right
+
+B                       B      
+They say you gotta stay hungry,
+
+B                       B               
+hey baby I'm just about starving tonight
+
+E                  C#m    
+I'm dying for some action,
+
+E                          C#m                           
+I'm sick of sitting 'round here trying to write this book
+
+B             G#m      
+I need a love reaction,
+
+B                G#m                
+come on now baby gimme just one look
+
+CHORUS 3:
+        F#                F#  
+&yellow:You can't start a fire
+
+        F#            F#                        
+&yellow:sitting round crying over a broken heart
+
+        E              C#m 
+&yellow:This gun's for hire
+
+        E                  C#m                
+&yellow:even if we're just dancing in the dark
+
+CHORUS 4:
+        F#                F#  
+&yellow:You can't start a fire
+
+        F#                  F#                        
+&yellow:worrying about your little world falling apart
+
+        E              C#m 
+&yellow:This gun's for hire
+
+        E                  C#m                
+&yellow:even if we're just dancing in the dark
+
+OUTRO:
+        B            B B                  B                  
+&yellow:               Even if we're just dancing in the dark
+
+        B            B B                  B                  
+&yellow:               Even if we're just dancing in the dark
+
+        B            B B                  B                  
+&yellow:               Even if we're just dancing in the dark
+
+B            B B B 
+&red:(synth riff)
+
+B     B    
+  Hey baby!
+
+B      B      B     B 
+&red:(synth riff)        (END)

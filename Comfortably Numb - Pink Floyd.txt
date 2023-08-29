@@ -1,0 +1,144 @@
+Comfortably Numb
+Artist: Pink Floyd
+# Adjusted duration for better autoscroll timing:
+# Duration: 6:22 
+Duration: 5:22
+Key: Bm
+Tempo: 64
+
+INTRO:
+Bm              Bm 
+&red:(slide guitar + drums/bass)
+
+VERSE 1:
+Bm                      A                            
+Hello, is there anybody in there? Just nod if you can
+
+G(2)    (G/F#) Em(2)      Bm 
+hear me.         Is there anyone home? 
+
+Bm                          A                  
+Come on, now, I hear you're feeling down, well,
+
+G(2)  (G/F#)    Em(2)                 Bm                 
+I can ease your pain, get you on your feet again.
+
+Bm                 A                 
+Relax, I need some information first,
+
+G(2)     (G/F#) Em(2)          Bm                     
+just the basic  facts. Can you show me where it hurts?
+
+CHORUS 1:
+D                        A        
+There is no pain you are receding.
+
+D                             A       
+A distant ship's smoke on the horizon,
+
+C                              G     
+You are only coming through in waves.
+
+     C                                      G      
+Your lips move but I can't hear what you're saying,
+
+             D                      A     
+&yellow:When I was a child I had a fever
+
+           D                        A        
+&yellow:My hands felt just like two balloons
+
+        C                              G                      
+&yellow:Now I've got that feeling once again, I can't explain,
+
+                      C                            G   
+&yellow:you would not understand, this is not how I am.
+
+         A C(2) G(2)               D 
+&yellow: I have become comfortably numb.
+
+SOLO 1:
+D        A      
+&red:(guitar)
+
+D        A      
+&red:(guitar)
+
+C       G 
+&red:(guitar)
+
+C       G 
+&red:(guitar)
+
+BRIDGE:
+A C(2) G(2)                D 
+I have become  comfortably numb.
+
+VERSE 2:
+
+Bm                  A                            
+O.K., just a little pinprick, there'll be no more
+
+G(2)   (G/F#) Em(2)                       Bm                 
+Aaaaah!         But you may feel a little sick.
+
+Bm                                  A            
+Can you stand up? I do believe it's working good.
+
+                 G(2)  (G/F#)      Em(2)
+That'll keep you going through the show,
+
+Bm                     
+Come on it's time to go
+
+CHORUS 2:
+        D                        A        
+&yellow:There is no pain you are receding.
+
+        D                             A       
+&yellow:A distant ship's smoke on the horizon,
+
+        C                              G     
+&yellow:You are only coming through in waves.
+
+             C                                       G      
+&yellow:Your lips move, but I can't hear what you're saying,
+
+             D                         A                
+&yellow:When I was a child, I caught a fleeting glimpse,
+
+        D                       A   
+&yellow:out of the corner of my eye.
+
+        C                           G                           
+&yellow:I turned to look but it was gone. I cannot put my finger
+
+        C                                   G              
+&yellow:on it now, the child has grown, the dream is gone.
+
+        A C(2) G(2)               D
+&yellow:I have become comfortably numb. 
+
+     D
+&red:(extra D before solo)
+
+SOLO 2:
+Bm       A    G(2) (G/F#) Em(2)   Bm 
+&red:(guitar)
+
+Bm       A    G(2) (G/F#) Em(2)   Bm 
+&red:(guitar)
+
+Bm       A    G(2) (G/F#) Em(2)   Bm 
+&red:(guitar)
+
+Bm       A    G(2) (G/F#) Em(2)   Bm 
+&red:(guitar)
+
+&red:(wait for Rick's cue)
+
+      Bm  A    G(2)        (G/F#) Em(2)   
+&red:(slow down)                
+
+Bm
+&red:(END)

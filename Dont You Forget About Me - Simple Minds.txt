@@ -1,0 +1,197 @@
+Don't You Forget About Me
+Artist: Simple Minds
+# Adjusted duration for better scrolling
+# Duration: 4:18 
+Duration: 4:00
+Key: E
+Tempo: 112
+
+INTRO:
+             D(2) E(2)
+&red:(snare)             
+
+E
+Hey, hey, hey, hey!
+
+D(2) Em(2)    C(2)     D(2)
+         Ooh  Ooh  Ooh
+
+D(2)  E(2)   E   
+ Ooh  Oh!
+
+D(2)           Em(2)    C(2)    D(2)
+&red:(instrumental)
+
+# At 00:17
+VERSE 1:
+E               D                 
+ Won't you come see about me?
+
+A              D                             
+ I'll be alone dancing you know it baby.
+
+E             D                        
+ Tell me your troubles and doubts,
+
+A                     D                  
+ giving me everything inside and out
+
+E                D                       
+ Love's strange, so real in the dark,
+
+A                           D                             
+ think of the tender things that we were working on
+
+E                D                    
+ Slow change may pull us apart,
+
+A                    D                           
+ when the light gets into your heart, baby
+
+# At 00:52
+CHORUS:
+E          D                     
+ Don't you forget about me
+
+A   D                               
+    don't, don't, don't don't
+
+E          D                A     A      
+ Don't you forget about me
+
+
+# At 01:09
+BRIDGE:
+C                    C   G            G             
+Will you stand above me, look my way, never love me?
+
+D                   D                        
+Rain keeps falling, rain keeps falling
+
+A    A               
+down  down down
+
+C                  C   G               G          
+Will you recognize me, call my name or walk on by?
+
+D                   D                       
+Rain keeps falling, rain keeps falling
+
+A    A                
+down  down down
+
+# At 01:43
+INTERLUDE:
+D(2)    E(2)  E
+              Hey hey hey hey!
+
+D(2) Em(2) C(2) D(2)
+     Ooh   Ooh  Ooh
+
+D(2) E(2)   E
+Ooh  Oh!
+
+D(2)           Em(2)  C(2)  D(2)
+&red:(instrumental)
+
+# At 2:01
+VERSE 2:
+E          D                   
+ Don't you  try to pretend,
+
+A                       D                   
+ it's my freewill we'll  win in the end.
+
+        E            D                       
+I won't  harm you or  touch your defenses
+
+A                     D   
+ vanity and security.
+
+E          D                      
+ Don't you  forget about me,
+
+A              D                                 
+ I'll be alone  dancing, you know it, baby.
+
+E         D                     
+ Going to  take you apart,
+
+A                 D                              
+ I'll put us back  together at heart, baby.
+
+# At 02:35
+CHORUS:
+E          D                     
+ Don't you  forget about me
+
+A D                               
+  don't, don't, don't don't
+
+E          D                     
+ Don't you  forget about me
+
+A      D                        
+        As you walk on by 
+
+# At 02:53
+POST-CHORUS:
+E      D                             
+         Will you call my name? 
+
+A      D                        
+         As you walk on by 
+
+E      D                             
+         Will you call my name? 
+
+A      D                                
+         When you walk away. 
+         
+&red:(snare & STOP!)
+
+# At 03:10
+OUTRO:
+
+E  D  A  D                         
+&red:(bass/synth/drums only) 
+
+                       E  D  A  D                       
+Or will you walk away?
+
+                      E  D  A                        D     
+Will you walk on by?        Come on come on, call my name. 
+
+E                 D      A         
+ Will you call my name?     
+
+D
+&red:(drums)
+
+&red:All in...
+
+              E            D            A            D      
+&yellow:I say la, la la la la, la la la la, la la la lah la la la la la
+
+        E            D            A            D      
+&yellow:la, la la la la, la la la la, la la la lah la la la la la
+
+        E            D            A            D      
+&yellow:la, la la la la, la la la la, la la la lah la la la la la la
+
+E                  D                  A      
+  When you walk on by and you call my name.  
+  
+A
+&red:(drums)
+
+&red:(repeat intro as ending)
+
+D(2)  E(2) E                      
+           Hey hey hey hey!
+
+D(2)   Em(2)  C(2) D(2)      
+         Ooh  Ooh  Ooh
+
+D(2)  E(2) E                     
+           Baby baby, yeah! (END)
