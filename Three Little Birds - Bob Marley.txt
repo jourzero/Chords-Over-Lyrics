@@ -1,0 +1,71 @@
+Three Little Birds
+Artist: Bob Marley
+Duration: 3:00
+Key: A
+Tempo: 76
+
+&pink:INTRO:
+        A      A      A      A
+(snare) (organ riff)
+
+&pink:CHORUS:
+
+              A             A
+&yellow:Don't worry about a thing,
+               D                               A       
+&yellow:'Cause every little thing gonna be all right, singin'
+              A             A  
+&yellow:Don't worry about a thing,
+               D                               A    
+&yellow:'Cause every little thing gonna be all right
+
+&pink:VERSE 1:
+             A                       E        
+Rise up this mornin', smile with the risin' sun,
+             D                 D
+Three little birds pitch by my doorstep
+        A                       E              
+Singin' sweet songs of melodies pure and true, sayin'
+D                     A
+This is my message to you, singin'
+
+&pink:CHORUS:
+              A             A
+&yellow:Don't worry about a thing,
+               D                               A       
+&yellow:'Cause every little thing gonna be all right, singin'
+              A             A  
+&yellow:Don't worry about a thing,
+               D                                A
+&yellow:'Cause every little thing gonna be all right
+
+&pink:VERSE 2:
+             A                       E        
+Rise up this mornin', smile with the risin' sun,
+             D                 D
+Three little birds pitch by my doorstep
+        A                       E
+Singin' sweet songs of melodies pure and true, sayin' 
+D                     A        
+This is my message to you, singin'
+
+&pink:OUTRO:
+              A             A
+&yellow:Don't worry about a thing,
+               D                               A       
+&yellow:'Cause every little thing gonna be all right, singin'
+              A             A
+&yellow:Don't worry about a thing,
+               D                               A
+&yellow:'Cause every little thing gonna be all right, sing with us everybody!
+                 A          A     
+&yellow:Don't worry about a thing,
+               D                               A       
+&yellow:'Cause every little thing gonna be all right, louder!
+
+&red: ending, slow down before last chord
+
+              A             A
+&yellow:Don't worry about a thing,
+               D                                     A 
+&yellow:'Cause every little thing gonna be aaaaaaall right (END)
