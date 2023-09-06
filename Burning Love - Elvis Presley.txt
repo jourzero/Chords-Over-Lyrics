@@ -6,14 +6,14 @@ Duration: 2:30
 Key: D
 Tempo: 143
 
-INTRO:
+&pink:INTRO:
 D        D        
 &red:(guitar) (+piano) 
 
 D       D  
 &red:(+bass) (+drums)
 
-VERSE 1:
+&pink:VERSE 1:
 D                G(2)    A(2)        
 Lord Almighty, I feel my temperature 
 
@@ -30,7 +30,7 @@ D                 G(2)         A(2)
 Girl, girl, girl, you're gonna set me on fire.     
 
 D   D
-.   Ummm
+    Ummm
 
 D                    G(2)               A(2)   
 My brain is flamin', I don't know which way to 
@@ -38,7 +38,7 @@ My brain is flamin', I don't know which way to
 D   D
 go.
 
-CHORUS 1:
+&pink:CHORUS 1:
      Bm(2)  A(2)    G     
 Your kisses lift me higher 
 &yellow:     Haaa Haaa Haaa
@@ -54,7 +54,7 @@ You light my morning sky
              A(2)    D     D    
 &yellow:With burning love
 
-VERSE 2:
+&pink:VERSE 2:
 D            G(2)      A(2)        
 Ooh hoo hoo, I feel my temperature 
 
@@ -80,7 +80,7 @@ D     D
 fine.
 
 
-   CHORUS 2:
+&pink:CHORUS 2:
             Bm(2)  A(2)    G     
 'Cause your kisses lift me higher 
 &yellow:       Haaa Haaa Haaa
@@ -97,7 +97,7 @@ And you light my morning sky
 With burning love 
 &yellow:With burning love
 
-INSTRUMENTAL:
+&pink:INSTRUMENTAL:
         Bm(2) A(2) G
 &yellow:Haaa  Haaa Haaa
 
@@ -110,7 +110,7 @@ INSTRUMENTAL:
              A(2)    D     D                        
 &yellow:With burning love    
 
-VERSE 3:
+&pink:VERSE 3:
 D                   G(2)           A(2)       
 It's coming closer, flames are now licking my 
 
@@ -135,7 +135,7 @@ Lord have mercy, I'm burning a hole where I
 D    D   
 lay, yeah
 
-CHORUS 3:
+&pink:CHORUS 3:
      Bm(2)  A(2)    G     
 Your kisses lift me higher
 &yellow:    Haaa Haaa Haaa
@@ -151,7 +151,7 @@ You light my morning sky
      A(2)    D     D                        
 With burning love    with burning love 
 
-OUTRO: 
+&pink:OUTRO: 
         D                         G        
 &yellow:Burn, Burn, Burning love. (aaah)
 

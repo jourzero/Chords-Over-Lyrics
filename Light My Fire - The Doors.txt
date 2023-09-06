@@ -6,7 +6,7 @@ Key: Am
 Duration: 2:50
 Tempo: 125
 
-INTRO:
+&pink:INTRO:
 G(2)    D(2)   F(2) A#(2) 
 &red:(organ)
 
@@ -17,7 +17,7 @@ A
 &red:(organ)
 
 # At 00:10
-VERSE 1:
+&pink:VERSE 1:
 
     Am7                     F#m 
 You know that it would be untrue   
@@ -32,7 +32,7 @@ Am7                        F#m
 Girl, we couldn't get much higher
 
 # At 00:25
-CHORUS:
+&pink:CHORUS:
 G(2)          A(2)     D   
 Come on baby, light my fire
 
@@ -43,7 +43,7 @@ G(2)           D(2)    E      E
 Try to set the night on fire. 
 
 # At 00:38
-VERSE 2:
+&pink:VERSE 2:
     Am7                 F#m 
 The time to hesitate is through   
 
@@ -57,7 +57,7 @@ Try now we can only lose
 And our love becomes a funeral pyre.
 
 # At 00:53
-CHORUS:
+&pink:CHORUS:
 G(2)          A(2)     D 
 Come on baby, light my fire
 
@@ -68,14 +68,14 @@ G(2)           D(2)     E     E
 Try to set the night on fire. Yeah!
 
 # At 1:06
-ORGAN SOLO:
+&pink:ORGAN SOLO:
      Am(2)  Bm(2)    Am(2)  Bm(2)   
 &red:(organ solo)
 
 &red:*(repeat above, wait for cue)
 
 # At 3:18
-Guitar Solo:
+&pink:Guitar Solo:
      Am(2)   Bm(2)    Am(2)   Bm(2)   
 &red:(guitar solo)
 
@@ -85,14 +85,14 @@ Am(2)     Bm(2) Am(2)   Bm(2)
 (repeated organ chords)
 
 # At 5:33
-INTERLUDE:
+&pink:INTERLUDE:
      G(2)   D(2)  F(2)  A#(2)  D#(2)  G#(2)   A    A
 &red:(organ intro riff)
 
-&orange:*(Jim, use PAUSE/PLAY pedal)
+&orange:*(PAUSE/PLAY pedal)
 
 # At 5:43
-VERSE 3:
+&pink:VERSE 3:
     Am7                        F#m 
 The time to hesitate is through   
 
@@ -106,7 +106,7 @@ Try now we can only lose
 And our love becomes a funeral pyre 
 
 # At 5:58
-CHORUS:
+&pink:CHORUS:
 G             A        D 
 Come on baby, light my fire
 
@@ -117,7 +117,7 @@ G              D        E
 Try to set the night on fire
 
 # At 6:12
-VERSE 4:
+&pink:VERSE 4:
     Am7                         F#m 
 You know that it would be untrue   
 
@@ -131,7 +131,7 @@ Am7                        F#m
 Girl, we couldn't get much higher
 
 # At 6:27
-CHORUS:
+&pink:CHORUS:
 G             A        D 
 Come on baby, light my fire
 
@@ -151,7 +151,7 @@ F              C        D
 Try to set the night on fire!
 
 # At 6:51
-OUTRO:
+&pink:OUTRO:
 G(2)   D(2)   F(2)  A#(2)  D#(2)  G#(2)  A   
 &red:(intro riff)                                 
 

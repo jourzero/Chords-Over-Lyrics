@@ -5,7 +5,7 @@ Key: C
 Tempo: 128
 TransposedKey: C
 
-INTRO:
+&pink:INTRO:
 G          G   
 &red:(guitar)     
 
@@ -15,7 +15,7 @@ G       G
 G      G       G
 &red:(brass chords) 
 
-VERSE 1:
+&pink:VERSE 1:
 C         C      
  Where it began, 
 
@@ -40,8 +40,7 @@ C             C
 G      G
 along.
 
-
-BRIDGE:
+&pink:BRIDGE:
 C       C  
  Hands, 
 
@@ -57,8 +56,7 @@ F             F
          G         G             
 Touchin'  you 
 
-
-CHORUS 1:
+&pink:CHORUS 1:
         C          F 
 &yellow:(Sweet Caroline)   
 
@@ -77,8 +75,7 @@ F      F
 G(2)    F(2) Em(2)  Dm(2)
  would  but  now    I... 
 
-
-VERSE 2:
+&pink:VERSE 2:
 C            C
  Look at the night,  
 
@@ -103,8 +100,7 @@ How can I hurt when holding
 G     G
 you?
 
-
-BRIDGE:
+&pink:BRIDGE:
 C     C
  Warm, 
 
@@ -120,7 +116,7 @@ F             F
 G    G
 you.
 
-CHORUS 2:
+&pink:CHORUS 2:
         C          F 
 &yellow:(Sweet Caroline),  
 
@@ -139,8 +135,7 @@ F     F
 G(2)    F(2) Em(2) Dm(2)
  would  Oh,  no,   no. 
 
-
-INSTRUMENTAL:
+&pink:INSTRUMENTAL:
 G        G                  
 &red:(guitar)
 
@@ -148,10 +143,9 @@ G        G
 &red:(+synth)
 
 G        G            G
-.        Last chorus, sing with me!
+/        Last chorus, sing with me!
 
-
-OUTRO:
+&pink:OUTRO:
         C         F    
 &yellow:Sweet Caroline,  
 

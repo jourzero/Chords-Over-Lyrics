@@ -8,11 +8,12 @@ This folder contains text files to use as source for Chords & Lyrics to be impor
 WARNING: The .txt files cannot be edited directly using Google Docs. A "plain text file editor" is needed instead.
 
 
-ONSONG FILE FORMATTING
-
 User Manual: https://onsongapp.com/docs/features/formats/onsong/
 
 The above manual points to additional sections summarized below.
+
+
+ONSONG FILE FORMATTING
 
 
 METADATA
@@ -73,4 +74,12 @@ Examples
 >yellow:This line will be highlighted in yellow
 
 
+BAND STANDARD
+1. Use hard-coded pink color for section names.  For Example:
+   &pink:CHORUS
 
+2. Use yellow letter coloring for lines with back-vocals
+   &yellow:We will, we will rock you!
+
+#. Use red coloring for instructions
+   &red:Wait for visual cue...

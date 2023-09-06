@@ -6,11 +6,11 @@ Duration: 5:22
 Key: Bm
 Tempo: 64
 
-INTRO:
+&pink:INTRO:
 Bm              Bm 
 &red:(slide guitar + drums/bass)
 
-VERSE 1:
+&pink:VERSE 1:
 Bm                      A                            
 Hello, is there anybody in there? Just nod if you can
 
@@ -29,7 +29,7 @@ Relax, I need some information first,
 G(2)     (G/F#) Em(2)          Bm                     
 just the basic  facts. Can you show me where it hurts?
 
-CHORUS 1:
+&pink:CHORUS 1:
 D                        A        
 There is no pain you are receding.
 
@@ -57,7 +57,7 @@ Your lips move but I can't hear what you're saying,
          A C(2) G(2)               D 
 &yellow: I have become comfortably numb.
 
-SOLO 1:
+&pink:SOLO 1:
 D        A      
 &red:(guitar)
 
@@ -70,11 +70,11 @@ C       G
 C       G 
 &red:(guitar)
 
-BRIDGE:
+&pink:BRIDGE:
 A C(2) G(2)                D 
 I have become  comfortably numb.
 
-VERSE 2:
+&pink:VERSE 2:
 
 Bm                  A                            
 O.K., just a little pinprick, there'll be no more
@@ -91,7 +91,7 @@ That'll keep you going through the show,
 Bm                     
 Come on it's time to go
 
-CHORUS 2:
+&pink:CHORUS 2:
         D                        A        
 &yellow:There is no pain you are receding.
 
@@ -122,7 +122,7 @@ CHORUS 2:
      D
 &red:(extra D before solo)
 
-SOLO 2:
+&pink:SOLO 2:
 Bm       A    G(2) (G/F#) Em(2)   Bm 
 &red:(guitar)
 

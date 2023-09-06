@@ -4,15 +4,14 @@ Duration: 3:15
 Key: Em
 Tempo: 127
 
-INTRO:
+&pink:INTRO:
              Em      Dsus2  Em (Esus4) Em 
 &red:(drums) (guitar riff)
 
      Em      Dsus2  Em (Esus4) Em 
 &red:(guitar riff)
 
-VERSE1:
-
+&pink:VERSE1:
 Em                Dsus2        Em   (Esus4) Em
 This one goes out to the one I love  
 
@@ -25,16 +24,14 @@ A simple prop to occupy my time
 Em                Dsus2        Em    Em 
 This one goes out to the one I love  
 
-CHORUS 1:
-
+&pink:CHORUS 1:
 Em   Dsus2 Em Em 
 Fire          
 
 Em   Dsus2 Em Em 
 Fire          
 
-VERSE 2:
-
+&pink:VERSE 2:
 Em                Dsus2         Em   Em 
 This one goes out to the one I love  
 
@@ -47,19 +44,18 @@ A simple prop to occupy my time
 Em                Dsus2        Em   Em 
 This one goes out to the one I love 
 
-CHORUS 2:
-
+&pink:CHORUS 2:
 Em          Dsus2 Em Em 
 Fire (fire)          
 
 Em          Dsus2 Em Em 
 Fire (fire)          
 
-SOLO:
-G  Dsus4  G  C  Em  D  Em 
+&pink:SOLO:
+G       Dsus4    G    C    Em    D    Em 
+(guitar solo)
 
-VERSE 3:
-
+&pink:VERSE 3:
 Em                Dsus2        Em   Em 
 This one goes out to the one I love 
 
@@ -72,8 +68,7 @@ Another prop has occupied my time
 Em                Dsus2        Em   Em 
 This one goes out to the one I love 
 
-CHORUS 3:
-
+&pink:CHORUS 3:
 Em          Dsus2 Em  Em 
 Fire (fire)           
 
@@ -86,7 +81,6 @@ Fire (fire)
 Em          Dsus2 Em  Em 
 Fire (fire)           
 
-
-OUTRO:
-Em  Dsus2 Em Em 
-
+&pink:OUTRO:
+     Em    Dsus2   Em   Em 
+&red:(instrumental)

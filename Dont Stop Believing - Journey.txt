@@ -7,14 +7,14 @@ Tempo: 121
 # Duration: 4:10
 Duration: 3:50
 
-INTRO:
+&pink:INTRO:
 E        B      C#m7     A             
 &red:(piano + bass)
 
 E        B      G#m      A              
 &red:(piano + bass)
 
-VERSE 1:
+&pink:VERSE 1:
 E       B               
  Just a small town girl  
  
@@ -39,14 +39,14 @@ E            B
 G#m A      
 any-where.
 
-BREAK:
+&pink:BREAK:
      E               B C#m7 A 
 &red:(+lead guitar)
 
 E               B G#m A 
 &red:(instrumental)
 
-VERSE 2:
+&pink:VERSE 2:
 E              B          
  A singer in a smoky room. 
  
@@ -59,7 +59,7 @@ E                     B
         G#m                A        
 It goes on and on, and on, and on.
 
-CHORUS 1:
+&pink:CHORUS 1:
         B/A(2) A(2) B/A(2) E/A(2)
 &yellow:Stran- gers wait-  ing
 
@@ -84,13 +84,13 @@ B/E(2) E(2)           B/E(2) E(2)
        B(2) E(2) B(1) E(1) A(2)
 in the niiiiiiiiiiiiiiiiiiiiiiight        
 
-BREAK:
+&pink:BREAK:
 E              B    C#m7    A 
 &red:(instrumental)
 
 &red:*(skip 2nd chord sequence)
 
-VERSE 3:
+&pink:VERSE 3:
 E                B          
  Working hard to get my fill
 
@@ -115,7 +115,7 @@ E              B
         G#m                A         
 It goes on and on, and on, and on
 
-CHORUS 2:
+&pink:CHORUS 2:
         B/A(2) A(2) B/A(2) E/A(2)
 &yellow:Stran- gers wait-  ing
 
@@ -140,14 +140,14 @@ B/E(2) E(2)           B/E(2) E(2)
        B(2) E(2) B(1) E(1) A(2)
 in the niiiiiiiiiiiiiiiiiiiiiiight    
 
-GUITAR SOLO:
+&pink:GUITAR SOLO:
 E        B    C#m7   A 
 &red:(solo)
 
 E        B    G#m   A 
                       Sing with me.
 
-OUTRO:
+&pink:OUTRO:
         E          B      
 &yellow:Don't stop believin'
 

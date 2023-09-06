@@ -58,7 +58,7 @@ This is my message to you, singin'
 &yellow:Don't worry about a thing,
                D                               A
 &yellow:'Cause every little thing gonna be all right, sing with us everybody!
-                 A          A     
+              A             A     
 &yellow:Don't worry about a thing,
                D                               A       
 &yellow:'Cause every little thing gonna be all right, louder!

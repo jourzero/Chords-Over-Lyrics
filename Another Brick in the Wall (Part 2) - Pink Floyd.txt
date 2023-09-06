@@ -6,11 +6,11 @@ Duration: 3:20
 Key: Dm
 Tempo: 105
 
-INTRO:
+&pink:INTRO:
 (NC)
-Aaaahhh!
+&red:(drum beat only)
 
-VERSE 1:
+&pink:VERSE 1:
       Dm               Dm         Dm   Dm
 &yellow:We don't need no education.   
 
@@ -26,17 +26,17 @@ VERSE 1:
       G      G                   Dm          Dm
 &yellow:  Hey! Teacher, leave them kids alone.
 
-CHORUS 1:
-      F                        C                   Dm   Dm
+&pink:CHORUS 1:
+        F                      C                   Dm   Dm
 &yellow:All in all it's just a-nother brick in the wall
 
-      F                           C                         
-&yellow: All in all you're just a-nother brick in the wall.
+        F                        C                         
+&yellow:All in all you're just a-nother brick in the wall.
 
 (NC)
 &red:(drum beat)
 
-VERSE 2:
+&pink:VERSE 2:
 
 &red:(Kids singing a cappella...)
 
@@ -55,7 +55,7 @@ VERSE 2:
         G     G                         Dm     Dm
 &yellow: Hey! Teacher, leave those kids alone.
 
-CHORUS 2:
+&pink:CHORUS 2:
          F                         C                   Dm   Dm
 &yellow:  All in all you're just a-nother brick in the wall
 
@@ -65,7 +65,7 @@ CHORUS 2:
 Dm
 &red:(to solo)
 
-SOLO:
+&pink:SOLO:
      Dm      Dm    Dm   Dm
 &red:(guitar solo)
 
@@ -90,13 +90,12 @@ SOLO:
      C/D     C/D   
 &red:(guitar solo)
 
-OUTRO:
+&pink:OUTRO:
 
-     Dm    
-&red:(drums+bass only + singer complaining...)
+&red:(drums+bass only + Brit dude complaining...)
 
-Dm                          Dm
-If you don't eat your meat, you can't have any pudding!
+(NC)                         (NC)
+/If you don't eat your meat, you can't have any pudding!
 
-Dm                           Dm
-How can you have any pudding if you don't eat your meat?! (END)
+(NC)                          (NC)
+/How can you have any pudding if you don't eat your meat?! (END)

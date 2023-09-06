@@ -1,11 +1,13 @@
 Takin Care Of Business
 Artist: Bachman Turner Overdrive (BTO)
-Duration: 4:55
+# Adjusted Duration for better autoscrolling
+# Duration: 4:52
+Duration: 4:22
 Key: Cm
 Tempo: 128
 TransposedKey: Bbm
 
-INTRO:
+&pink:INTRO:
 C7        Bb7   F7   C7                   
 &red:(guitar1)            (+drums and piano)
 
@@ -19,7 +21,7 @@ C7   Bb7          F7   C7
 &red:(all instruments)    
 
 # At 0:30 
-VERSE 1:
+&pink:VERSE 1:
     C7                             Bb7                   
 You get up every morning from your 'larm clock's warning.
 
@@ -45,7 +47,7 @@ If you ever get annoyed, look at me, I'm self-employed
 I love to work at nothin' all day.
 
 # At 1:00 
-CHORUS 1:
+&pink:CHORUS 1:
                     C7    Bb7         
 &yellow:And I'll be TCOB, every day.
 
@@ -59,7 +61,7 @@ CHORUS 1:
 &yellow:Takin' care of business and workin' overtime. Work out.
 
 # At 1:15
-SOLO 1:
+&pink:SOLO 1:
 C7      Bb7   F7   C7 
 &red:(guitar solo)
 
@@ -67,7 +69,7 @@ C7      Bb7   F7   C7
 &red:(guitar solo)
 
 # At 1:30
-VERSE 2:
+&pink:VERSE 2:
            C7                         Bb7          
 If it were easy as fishin', you could be a musician
 
@@ -93,7 +95,7 @@ It's the work that we avoid and we're all self-employed.
 We love to work at nothin' all day.
 
 # At 1:59
-CHORUS 2:
+&pink:CHORUS 2:
                   C7    Bb7         
 &yellow:And we be TCOB, every day!
 
@@ -107,17 +109,17 @@ CHORUS 2:
 &yellow:TCOB and working overtime.
 
 # At 2:14
-SOLO 2:
-C       Bb     F    C 
+&pink:SOLO 2:
+     C       Bb     F    C 
 &red:(guitar solo)
 
-C   Bb   F              C 
-         Are you ready?     Drums!
+     C       Bb     F    C 
+&red:(guitar solo)
 
 # At 2:28
-INTERLUDE 1:
+&pink:INTERLUDE 1:
 (NC)
-&red:(DRUMS ONLY...)
+&red:*(DRUMS ONLY...)
 
 (NC)      (NC)           (NC)
 Woooooh!  Alright! Owe!  (yeah love me!)
@@ -135,7 +137,7 @@ Woooooh!  Alright! Owe!  (yeah love me!)
 When I'm away,   every day   Whoooo!
 
 # At 2:50
-SOLO 3:
+&pink:SOLO 3:
      C           Bb   F   C 
 &red:(solo+band)
 
@@ -143,7 +145,7 @@ SOLO 3:
 &red:(solo+band)
 
 # At 3:04
-VERSE 3:
+&pink:VERSE 3:
     C                              Bb                   
 You get up every morning from your 'larm clock's warning
 
@@ -169,7 +171,7 @@ If you ever get annoyed, look at me, I'm self-employed
 I love to work at nothin' all day.
 
 # At 3:34
-CHORUS 3:
+&pink:CHORUS 3:
                     C     Bb          
 &yellow:And I'll be TCOB, every day.
 
@@ -180,14 +182,14 @@ CHORUS 3:
 &yellow:I've been TCOB,  it's all mine.
 
 F        C                                
-TCOB and workin' overtime. You ready? Hold!
+TCOB and workin' overtime. 
 
-&red:(Rick: hold the note)
+&red:(LEAD GUITAR: hold the note)
 
 # At 3:48
-INTERLUDE 2:
-(NC)         (NC) (NC) (NC)
-&red:(DRUMS ONLY)
+&pink:INTERLUDE 2:
+(NC)   (NC)   (NC)   (NC)
+&red:*(DRUMS ONLY)
 
 &red:(in unison)
 
@@ -209,7 +211,7 @@ INTERLUDE 2:
 &yellow:and workin' overtime. Whoooo!
 
 # At 4:25
-OUTRO:
+&pink:OUTRO:
         C    Bb F     C 
 &yellow:TCOB    TCOB
 

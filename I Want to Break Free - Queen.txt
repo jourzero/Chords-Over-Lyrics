@@ -7,11 +7,11 @@ Key: E
 Tempo: 110
 TransposedKey: Bb
 
-INTRO:
-E       E         E      (NC)
+&pink:INTRO:
+     E       E         E      (NC)
 &red:(guitar strumming)       
 
-VERSE:
+&pink:VERSE:
                 E     E          E          
 I want to break free,  I want to break free,
 
@@ -30,7 +30,7 @@ I've got to break free
 A                         E   
 God knows I want to break free
 
-VERSE 2:
+&pink:VERSE 2:
          (NC)           E    
 &yellow: I've fallen in love
 
@@ -46,7 +46,7 @@ I've fallen in love, yeah.
 E    B      A              E         E  
  God knows, God knows I've fallen in love
 
-BRIDGE:
+&pink:BRIDGE:
      B                A         
 It's strange but it's true. Hey!
 
@@ -68,30 +68,30 @@ want to be free
 A(2)      B(2)          E    (NC)
 Oh, how I want to break free.
 
-SOLO:
-E       E    E    E 
-&red:(synth)
+&pink:SOLO:
+     E      E     E     E 
+&red:(synth solo)
 
-A       A    E    E 
-&red:(synth)
+     A      A     E     E 
+&red:(synth solo)
 
-B       A    E    (NC)
-&red:(synth)           (wait for portamento end)
+     B      A     E    (NC)
+&red:(synth solo)      (wait for portamento end)
 
-INTERLUDE:
-E      E(3)    Esus4(1)   E   E 
+&pink:INTERLUDE:
+     E      E(3)    Esus4(1)   E   E 
 &red:(synth chords)
 
-A6(2)  A(2)    A(3) A6(1)   E    E 
+     A6(2)  A(2)    A(3) A6(1)   E    E 
 &red:(synth chords)
 
-B      A      E     E 
+     B      A      E     E 
 &red:(synth chords)
 
-B      A       E     (NC)
+     B      A       E     (NC)
 &red:(synth chords)       
 
-VERSE 3:
+&pink:VERSE 3:
                     E  
 But life still goes on.
 
@@ -110,7 +110,7 @@ I don't want to live  alone, hey
     B     A                    E   E 
 God knows got to make it on my own.
 
-OUTRO:
+&pink:OUTRO:
                    B    A                  E    
 So baby, can't you see?  I've got to break free.
 

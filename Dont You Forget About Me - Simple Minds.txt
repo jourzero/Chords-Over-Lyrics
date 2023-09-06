@@ -6,7 +6,7 @@ Duration: 4:00
 Key: E
 Tempo: 112
 
-INTRO:
+&pink:INTRO:
              D(2) E(2)
 &red:(snare)             
 
@@ -23,7 +23,7 @@ D(2)           Em(2)    C(2)    D(2)
 &red:(instrumental)
 
 # At 00:17
-VERSE 1:
+&pink:VERSE 1:
 E               D                 
  Won't you come see about me?
 
@@ -49,7 +49,7 @@ A                    D
  when the light gets into your heart, baby
 
 # At 00:52
-CHORUS:
+&pink:CHORUS:
 E          D                     
  Don't you forget about me
 
@@ -61,7 +61,7 @@ E          D                A     A
 
 
 # At 01:09
-BRIDGE:
+&pink:BRIDGE:
 C                    C   G            G             
 Will you stand above me, look my way, never love me?
 
@@ -81,7 +81,7 @@ A    A
 down  down down
 
 # At 01:43
-INTERLUDE:
+&pink:INTERLUDE:
 D(2)    E(2)  E
               Hey hey hey hey!
 
@@ -95,7 +95,7 @@ D(2)           Em(2)  C(2)  D(2)
 &red:(instrumental)
 
 # At 2:01
-VERSE 2:
+&pink:VERSE 2:
 E          D                   
  Don't you  try to pretend,
 
@@ -121,7 +121,7 @@ A                 D
  I'll put us back  together at heart, baby.
 
 # At 02:35
-CHORUS:
+&pink:CHORUS:
 E          D                     
  Don't you  forget about me
 
@@ -135,7 +135,7 @@ A      D
         As you walk on by 
 
 # At 02:53
-POST-CHORUS:
+&pink:POST-CHORUS:
 E      D                             
          Will you call my name? 
 
@@ -151,7 +151,7 @@ A      D
 &red:(snare & STOP!)
 
 # At 03:10
-OUTRO:
+&pink:OUTRO:
 
 E  D  A  D                         
 &red:(bass/synth/drums only) 
@@ -193,5 +193,11 @@ D(2)  E(2) E
 D(2)   Em(2)  C(2) D(2)      
          Ooh  Ooh  Ooh
 
-D(2)  E(2) E                     
-           Baby baby, yeah! (END)
+D(2)  E(2)   E   
+ Ooh  Oh!
+
+D(2)           Em(2)    C(2)    D(2)
+&red:(instrumental)
+
+     D(2) E  E
+&red:        (END)

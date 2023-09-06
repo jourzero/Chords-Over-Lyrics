@@ -4,7 +4,7 @@ Key: Em
 Tempo: 109
 Duration: 5:00
 
-INTRO:
+&pink:INTRO:
 E9       E9     
 &red:(guitar) 
 
@@ -17,7 +17,7 @@ E9            E9
 E9       E9 
 Yeah hey!
 
-VERSE 1:
+&pink:VERSE 1:
              E9                 E9 
 Yeah, once I was a boogie singer
 
@@ -42,14 +42,14 @@ And I decided quickly, yes I did
 E9                              E9                   
 To disco down and check out the show. 
 
-PRE-CHORUS:
+&pink:PRE-CHORUS:
                         E9                             E9                    
 &yellow:Yeah, there was (clap) dancin' and singin' and movin' to the groovin'
 
             E9                  E9                                
 &yellow:And just when it hit me somebody turned around and shouted
 
-CHORUS 1:
+&pink:CHORUS 1:
         G9                    G9       
 &yellow:Play that funky music white boy
 
@@ -65,7 +65,7 @@ CHORUS 1:
 E9           E9           E9 
 Till you die Oh yeah yeah 
 
-VERSE 2:
+&pink:VERSE 2:
       E9                          E9  
 Hell, I tried to understand this, yeah
 
@@ -90,14 +90,14 @@ I said, I must go back there, I got to go back
 E9                                   E9                  
 And check to see if things still the same 
 
-PRE-CHORUS:
+&pink:PRE-CHORUS:
                         E9                             E9                    
 &yellow:Yeah, they were (clap) dancin' and singin' and movin' to the groovin'
 
         E9                   E9                                
 &yellow:And just when it hit me somebody turned around and shouted
 
-CHORUS 2:
+&pink:CHORUS 2:
         G9                    G9       
 &yellow:Play that funky music white boy
 
@@ -116,14 +116,14 @@ Till you die, yeah. Oh, till you die
 E9                                         
 Come on, play some electrified boogie music!
 
-GUITAR SOLO:
+&pink:GUITAR SOLO:
 E9       E9    E9   E9 
 &red:(guitar)
 
 E9       E9    E9   E9 
 &red:(guitar)
 
-VERSE 3:
+&pink:VERSE 3:
     E9                  E9 
 Now first it wasn't easy
 
@@ -148,14 +148,14 @@ But I'll never lose that feelin'. No I won't.
 E9                              E9                 
 Of how I learned my lesson that day 
 
-PRE-CHORUS:
+&pink:PRE-CHORUS:
                         E9                             E9                    
 &yellow:Yeah, there was (clap) dancin' and singin' and movin' to the groovin'
 
             E9                  E9                                
 &yellow:And just when it hit me somebody turned around and shouted
 
-CHORUS 3:
+&pink:CHORUS 3:
         G9                    Bb9      
 &yellow:Play that funky music white boy
 
@@ -174,7 +174,7 @@ Till you die, yeah.
 E9               E9  
 Oh, till you die yeah
 
-BRIDGE:
+&pink:BRIDGE:
                       G9                     G9                    
 &yellow:(They shouted play that funky music) Play that funky music.
 
@@ -187,7 +187,7 @@ BRIDGE:
         G9                      G9                         
 &yellow:(Play that funky music) Gonna take you high and low.
 
-OUTRO:
+&pink:OUTRO:
         A9                    A9       
 &yellow:Play that funky music white boy
 

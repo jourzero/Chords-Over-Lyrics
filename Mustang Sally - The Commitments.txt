@@ -125,18 +125,24 @@ Oh, I guess I have to put your flat feet
 C               C                                          
 off the ground. Ah yeah baby, you gotta put your flat feeeet
 
-C     C  
-      Take it away Rick!          
+ C     C  
+/      Take it away Rick!          
 
 SOLO:
-C        C   C   C   C   C   C   C
-&red:(guitar)
+     C       C     C    C   
+&red:(guitar solo)
 
-F        F   F   F   C   C   C   C
-&red:(guitar)
+     C       C     C    C   
+&red:(guitar solo)
 
-G        G   F   F
-&red:(guitar)         
+     F       F     F    F   
+&red:(guitar solo)
+
+     C       C     C    C   
+&red:(guitar solo)
+
+     G       G     F    F
+&red:(guitar solo)         
 
 &orange:*(Press PAUSE/PLAY pedal)
 

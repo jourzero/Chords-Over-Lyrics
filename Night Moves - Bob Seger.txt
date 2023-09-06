@@ -5,14 +5,14 @@ Key: C
 Tempo: 120
 TransposedKey: C
 
-INTRO:
+&pink:INTRO:
 G         G(3)    F(1)       C         C(3)    F(1) 
 &red:(acoustic guitar)
 
 G         G(3)    F(1)       C         C(3)    F(1) 
 &red:(acoustic guitar)
 
-VERSE 1:
+&pink:VERSE 1:
 G                        G(3)                       F(1)
 I was a little too tall, coulda' used a few pounds. 
 
@@ -43,8 +43,7 @@ Workin' on mysteries without any clues.
 C     C(3)              D(1) 
          Working on our  
 
-
-CHORUS 1:
+&pink:CHORUS 1:
 Em(3)        D(1)   C(3)
 night moves. 
 
@@ -66,7 +65,7 @@ G              G(3)       F(1)
 C              C(3)   F(1)
 &red:(instrumental) 
 
-VERSE 2:
+&pink:VERSE 2:
 G                   G(3)            F(1)
 We weren't in love, oh no, far from.
 
@@ -91,7 +90,7 @@ I used her, she used me but neither one cared,
 C                           C(3)           D(1)
  we were getting our share.     Working on our 
 
-CHORUS 2:
+&pink:CHORUS 2:
         Em(3)       D(1)
 &yellow:night moves 
 
@@ -113,14 +112,14 @@ G       G(3)                  F(1)
 C               C(3) F(1)
 &red:(instrumental)
 
-INTERLUDE:
+&pink:INTERLUDE:
 Em              Em(3)  Em7(1) 
 &red:(instrumental)
 
 G              G7 
 &red:(instrumental)
 
-BRIDGE:
+&pink:BRIDGE:
 Cmaj7 Cmaj7 G       G 
   Oh      I wonder           
 
@@ -136,7 +135,7 @@ D               D
      G      G     G     G 
 &red:(pause all)
 
-INTERLUDE: 
+&pink:INTERLUDE: 
 &red: (acoustic guitar)
 
 G                                        
@@ -160,7 +159,7 @@ C                 Em
 C Cmaj7                       G  G 
       With autumn closing in.  
 
-BRIDGE:
+&pink:BRIDGE:
 G          G(3)    F(1) 
 &red:(accoustic guitar)
 
@@ -173,7 +172,7 @@ G             G(3)       F(1)
 C     C(3) F(1) 
  Hmm 
 
-OUTRO:
+&pink:OUTRO:
         G                          G(3)  F(1)
 &yellow:(Night moves) Night moves. 
 

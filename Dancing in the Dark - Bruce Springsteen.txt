@@ -7,14 +7,14 @@ Key: B
 TransposedKey: A
 Tempo: 145
 
-INTRO:
+&pink:INTRO:
 B            B B B 
 &red:(synth riff)
 
 B            B B B 
 &red:(synth riff)     
 
-VERSE:
+&pink:VERSE:
 B               B
 I get up in the evening
 
@@ -39,7 +39,7 @@ myself. Hey there baby,
 B       G#m                   
 I could use just a little help
 
-CHORUS:
+&pink:CHORUS:
         F#                F#   
 &yellow:You can't start a fire,
 
@@ -52,11 +52,11 @@ CHORUS:
         E                  C#m                
 &yellow:even if we're just dancing in the dark
 
-INSTRUMENTAL:
+&pink:INSTRUMENTAL:
 B            B B B 
 &red:(synth riff)     
 
-VERSE 2:
+&pink:VERSE 2:
 B                     B              
 Messages keep getting clearer 
 
@@ -81,7 +81,7 @@ There's something happening somewhere
 B    G#m                      
 baby I just know that there is
 
-CHORUS:
+&pink:CHORUS:
         F#                F#   
 &yellow:You can't start a fire,
 
@@ -94,14 +94,14 @@ CHORUS:
         E                  C#m                
 &yellow:even if we're just dancing in the dark
 
-INSTRUMENTAL:
+&pink:INSTRUMENTAL:
 B            B B B 
 &red:(synth riff)     
 
 B            B B B 
 &red:(synth riff)     
 
-BRIDGE:
+&pink:BRIDGE:
 G#m                    B     
 You sit around getting older,
 
@@ -114,7 +114,7 @@ I'll shake the world off my shoulders,
 E                        F#   
 come on baby the laugh's on me
 
-VERSE 3:
+&pink:VERSE 3:
 B                      B        
 Stay on the streets of this town
 
@@ -139,7 +139,7 @@ I need a love reaction,
 B                G#m                
 come on now baby gimme just one look
 
-CHORUS 3:
+&pink:CHORUS 3:
         F#                F#  
 &yellow:You can't start a fire
 
@@ -152,7 +152,7 @@ CHORUS 3:
         E                  C#m                
 &yellow:even if we're just dancing in the dark
 
-CHORUS 4:
+&pink:CHORUS 4:
         F#                F#  
 &yellow:You can't start a fire
 
@@ -165,7 +165,7 @@ CHORUS 4:
         E                  C#m                
 &yellow:even if we're just dancing in the dark
 
-OUTRO:
+&pink:OUTRO:
         B            B B                  B                  
 &yellow:               Even if we're just dancing in the dark
 

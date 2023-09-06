@@ -6,7 +6,7 @@ Tempo: 104
 
 /NOTE: All Em measures should be read as Em(3)-A(1) pairs
 
-INTRO:
+&pink:INTRO:
 (NC) (NC) (NC) (NC) Em        Em        Em  Em  Em  Em  
 &red:(storm)             (bass in) (piano in)
 
@@ -16,7 +16,7 @@ Em     Em    Em
 Em    Em   Em   Em 
 &red:(instrumental)
 
-VERSE 1:
+&pink:VERSE 1:
 Em                 Em
 Riders on the storm          
 
@@ -35,7 +35,7 @@ Like dog without a bone
    C               
 An actor out on loan
 
-VERSE 2:
+&pink:VERSE 2:
 Em                  Em    
 Riders on the storm         
 
@@ -60,7 +60,7 @@ Sweet family will die
 Em                 Em   
 Killer on the road, yeah!
 
-SOLO:
+&pink:SOLO:
 Em      Em    Em    Em
 &red:(guitar solo)
 
@@ -73,7 +73,7 @@ Em      Em    D    C
 Em      Em    Em    Em
 &red:(guitar solo)
 
-VERSE 3:
+&pink:VERSE 3:
          Em              Em
 Girl you gotta love your man      
 
@@ -95,7 +95,7 @@ Our life will never end
     Em                 Em  
 You gotta love your man       
 
-PIANO SOLO:
+&pink:PIANO SOLO:
 Em 
 &red:(lots of Em measures)
 
@@ -113,7 +113,7 @@ Em     Em  Em  Em
 Em    Em   Em   Em 
 &red:(instrumental)
 
-VERSE 4:
+&pink:VERSE 4:
 Em                  Em
 Riders on the storm
 
@@ -135,7 +135,7 @@ An actor out on loan
 Em                 Em
 Riders on the storm
 
-OUTRO:
+&pink:OUTRO:
 Em    Em   Em   Em 
 &red:(instrumental)
 

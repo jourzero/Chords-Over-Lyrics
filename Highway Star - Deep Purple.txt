@@ -7,7 +7,7 @@ Key: Gm
 Tempo: 171
 TransposedKey: Fm
 
-INTRO:
+&pink:INTRO:
 G5      F5/G  C/G  F5/G
 &red:(guitar strum over bass)
 
@@ -26,7 +26,7 @@ Gm  Gm   Gm   Gm
 Gm Gm Gm   C5(2) Bb5(2)
 aaaaaaaah!
 
-VERSE 1:
+&pink:VERSE 1:
 Gm             Gm                     Gm             Gm     
   Nobody gonna take my car, I'm gonna race it to the ground
 
@@ -40,7 +40,7 @@ D               D              D              D
  Like a driving power, big fat tires and everything
 
 
-CHORUS: 
+&pink:CHORUS: 
 A          A          A         A
 I love it, I need it, I feed it
 
@@ -53,7 +53,7 @@ Yeah it's a wild hurricane
 A    A   A   C(2) Bb(2)
 star
 
-VERSE 2:
+&pink:VERSE 2:
 Gm             Gm                     Gm              Gm  
   Nobody gonna take my girl I'm gonna keep her to the e-end
 
@@ -66,7 +66,7 @@ F            F               F               F
 D              D           D                D 
  Like a moving mouth, body control and everything
 
-CHORUS: 
+&pink:CHORUS: 
 A           A           A           A
 I love her, I need her, I seed her
 
@@ -79,7 +79,7 @@ Yeah she turns me on
 A    A   A   (NC)
 star         (drums)
 
-ORGAN SOLO:
+&pink:ORGAN SOLO:
 Dm      Dm      Dm    Dm
 &red:(engine revving up...)
 
@@ -116,7 +116,7 @@ D5     F5(2) G5(1) F5(1)   D5   F5(2) G5(1) F5(1)
      (NC)                          C
 &red:(bass+guitar: d-c-a-g#-g-f-d- c) (organ)
 
-VERSE 3:
+&pink:VERSE 3:
 Gm             Gm                 Gm              Gm    
   Nobody gonna take my head I got speed inside my brain
 
@@ -129,7 +129,7 @@ F           F                 F        F
 D              D               D             D
  Like a moving ground, an open road and everything
 
-CHORUS:
+&pink:CHORUS:
 A          A          A         A
 I love it, I need it, I seed it
 
@@ -143,7 +143,7 @@ A    A   (NC)  (NC)
 star     (drums)
 
 # At 03:46
-GUITAR SOLO:
+&pink:GUITAR SOLO:
 Dm       Dm    Dm    Dm
 &red:(guitar)
 
@@ -177,7 +177,7 @@ Am       Am  Am  Am
      C(2)     Bb(2)
 &red:(back to verse)
 
-VERSE 4: 
+&pink:VERSE 4: 
 Gm             Gm                     Gm             Gm     
   Nobody gonna take my car, I'm gonna race it to the ground
 
@@ -190,7 +190,7 @@ F           F               F              F
 D               D              D              D
  Like a driving power, big fat tires and everything
 
-CHORUS: 
+&pink:CHORUS: 
 A          A          A          A 
 I love it, I need it, I bleed it
 
@@ -200,7 +200,7 @@ A                  A
         C(2) D(2)  C(2) D(2)   G(2) D(2) F(2) G(2) A(2)
 &yellow:Al---right hold tight, I'm  a    high-way  star
 
-OUTRO:
+&pink:OUTRO:
 G(2) D(2) F(2) G(2) A(2)
 &yellow:I'm  a    high-way  star, 
 
