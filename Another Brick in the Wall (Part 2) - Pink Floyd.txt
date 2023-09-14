@@ -2,29 +2,50 @@ Another Brick in the Wall (Part 2)
 Artist: Pink Floyd (The Wall)
 # Adjusted duration for better autoscroll timing
 # Duration: 4:00
-Duration: 3:20
+Duration: 4:01
 Key: Dm
 Tempo: 105
 
 &pink:INTRO:
-(NC)
-&red:(drum beat only)
+Dm
+&red:(drum beat + rhythm guitar) 
+
+&red:Front man intro to song:
+
+ Dm                  Dm                             
+/This one is a story about a kid who builds a mental 
+
+ Dm                  Dm
+/wall around himself after the death of his father. 
+
+ Dm                     Dm
+/In Part 2, the traumas from his overprotective mother 
+
+ Dm                     Dm
+/and his abusive school teachers become 
+
+ Dm                       Dm
+/additional bricks in his wall. Here it goes...
+
+Dm
+&red:(drum fill)
 
 &pink:VERSE 1:
-      Dm               Dm         Dm   Dm
-&yellow:We don't need no education.   
+Dm               Dm         Dm      Dm
+We don't need no education.
+&red:(+lead guitar)                     (+bass)
 
-      Dm               Dm              Dm   Dm
-&yellow:We don't need no thoughts control.
+Dm               Dm                Dm     Dm
+We don't need no thoughts control. 
 
-      Dm              Dm              Dm   Dm
-&yellow:No dark sarcasm in the classroom     
+Dm              Dm              Dm   Dm
+No dark sarcasm in the classroom     
 
-      Dm                  Dm          G    G
-&yellow:Teacher, leave them kids alone.    
+Dm                  Dm          G    G
+Teacher, leave them kids alone.    
 
-      G      G                   Dm          Dm
-&yellow:  Hey! Teacher, leave them kids alone.
+G      G                   Dm          Dm
+  Hey! Teacher, leave them kids alone.
 
 &pink:CHORUS 1:
         F                      C                   Dm   Dm
@@ -62,11 +83,11 @@ Tempo: 105
          F                         C                   Dm   
 &yellow:  All in all you're just a-nother brick in the wall 
 
-Dm
+Dm7
 &red:(to solo)
 
 &pink:SOLO:
-     Dm      Dm    Dm   Dm
+     Dm      Dm    Dm9   Dm
 &red:(guitar solo)
 
      Dm      Dm    Dm   Dm
