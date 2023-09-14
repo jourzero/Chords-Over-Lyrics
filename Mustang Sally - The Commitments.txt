@@ -6,7 +6,7 @@ Duration: 4:15
 Key: C
 Tempo: 115
 
-INTRO:
+&pink:INTRO:
 C      C    
 &red:(instrumental)
 
@@ -14,7 +14,7 @@ C      C
 &red:(instrumental)
 
 # At 0:07
-VERSE 1:
+&pink:VERSE 1:
         C     C 
 Mustang Sally,
 
@@ -52,7 +52,7 @@ C                                 C
 Sing it to 'em all the time girls.
 
 # At 00:58
-CHORUS 1:
+&pink:CHORUS 1:
 C                   C                 
 All you wanna do is ride around Sally.
 
@@ -90,7 +90,7 @@ C         C
 Allright!
 
 # At 1:48
-VERSE 2:
+&pink:VERSE 2:
 C                        C       
 I bought you a brand new Mustang. (boooooought)
 
@@ -128,7 +128,7 @@ off the ground. Ah yeah baby, you gotta put your flat feeeet
  C     C  
 /      Take it away Rick!          
 
-SOLO:
+&pink:SOLO:
      C       C     C    C   
 &red:(guitar solo)
 
@@ -147,7 +147,7 @@ SOLO:
 &orange:*(Press PAUSE/PLAY pedal)
 
 # At 2:38
-CHORUS 2:
+&pink:CHORUS 2:
 C                   C                 
 All you wanna do is Ride around Sally.
 
@@ -185,7 +185,7 @@ C              C
  Come on boss. 
 
 # At 3:28
-OUTRO:
+&pink:OUTRO:
               C             C    
 Those weepin’ eyes, oh yeah babe, (Sally)
 
