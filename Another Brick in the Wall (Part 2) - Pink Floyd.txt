@@ -84,22 +84,22 @@ Dm7
 &red:(to solo)
 
 &pink:SOLO:
-     Dm      Dm    Dm9   Dm
+     Dm      Dm7   Dm9  Dm
 &red:(guitar solo)
 
      Dm      Dm    Dm   Dm
 &red:(guitar solo)
 
-     Dm9     Dm9   Dm   Dm
+     Dsus4   Dm9   Dm   Dm
 &red:(guitar solo)
 
-     Dm9     Dm9   Dm   Dm
+     Dm7     Dm7   Dm   Dm
 &red:(guitar solo)
 
      G/D     G/D   F9/D  F9/D
 &red:(guitar solo)
 
-     G/D     G/D   F9/D   F9/D
+     G/D     G/D   Dm7   Dm7
 &red:(guitar solo)
 
      G/D     G/D   Bb/D  Bb/D  
@@ -110,7 +110,7 @@ Dm7
 
 &pink:OUTRO:
 
-&red:(drums+bass only + Brit dude complaining...)
+&red:(drums + bass + front man complaining...)
 
 (NC)                         (NC)
 /If you don't eat your meat, you can't have any pudding!
