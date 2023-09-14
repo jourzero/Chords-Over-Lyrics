@@ -10,20 +10,6 @@ Tempo: 105
 Dm
 &red:(drum beat + rhythm guitar) 
 
-&red:Front man intro to song:
-
- Dm                              Dm                             
-/This is a story about a kid who builds a mental wall
-
-        Dm                              Dm
-/around himself after losing his dad.
-
- Dm                              Dm
-/In Part 2, traumas from abusive school teachers become 
-
-            Dm                  Dm
-/additional bricks in his wall. Here it goes...
-
 Dm
 &red:(drum fill)
 
