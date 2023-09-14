@@ -163,5 +163,5 @@ F     F                G
 
 &red: Play next chords slowly...
 
-        G(3)         C(1) C
-&yellow:Sweet Caro---li---ne! (END)
+        G       F/G(2) G(2) C
+&yellow:  Sweet Ca-    ro-  liiiiine! (END)
