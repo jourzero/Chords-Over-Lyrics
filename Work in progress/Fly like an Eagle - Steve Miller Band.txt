@@ -1,0 +1,138 @@
+Fly like an eagle
+Artist: Steve Miller Band
+Duration: 4:05
+Key: Am
+Tempo: 98
+
+/NOTE: This is Eric's learning sheet. It is not intended for band practice but it could be sanitized later for that purpose.
+
+SPACE INTRO: 
+     Am
+&red:(synth: wind/f#4, a1-e4, spaceship/f4) (x3, slower to faster)
+&red:(synth: a1-e2,a1-d4)
+&red:(synth: a1-e2,a1-e4) (x3)
+&red:(synth: wind+wah)
+
+INTRO 1:
+     Am7               Am7
+&red:(guitar riff...)
+     Am7               Am7
+&red:(+drums)          (+ organ)
+
+INTRO 2:
+Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
+Tick  tock tick. Doo doo doodoo.             (High A5\)
+Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
+Tick  tock tick. Doo doo doodoo.             (High D-Am)
+Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
+Tick  tock tick. Doo doo doodoo.             (Med D-Am)
+Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
+Tick  tock tick. Doo doo doodoo.             (High /A5)
+
+PRE-CHORUS:
+Am                                          Am                
+Time keeps on slippin', slippin', (Am-D-Am) slippin' into the (/A5)
+Am                 Am
+future. (Am-D-Am)  (A5\)
+Am                                 Am
+Time keeps on  slippin', slippin', slippin' into the 
+Am        Am 
+future.       I wanna
+
+CHORUS 1:
+Am(2)       Dm7/A(2) F/A(2) Am(2)
+Fly like an eagle    to the sea
+Am(2)       Dm7/A(2) F/A(2)        Am(2)
+Fly like an eagle,   let my spirit carry me. I wanna
+Am(2)       Dm7/A(2) F/A(2)   Am(2)
+fly like an eagle    till I'm free
+Am(2)       Dm7/A(2) F/A(2) Am(2)
+Oh, Lord,   through  the    revolution
+
+VERSE 2:
+Am                        Dm7/A
+Feed the babies who don't have enough to eat
+F/A                       Am
+Shoe the children with no shoes on their feet
+Am                      Dm7/A
+House the people livin' in the street
+F/A                  Am
+Oh, oh,  there's a solution. I want to
+
+CHORUS 2:
+Am(2)       Dm7/A(2) F/A(2) Am(2)
+Fly like an eagle    to the sea
+Am(2)       Dm7/A(2) F/A(2)        Am(2)
+Fly like an eagle,   let my spirit carry me. I want to
+Am(2)       Dm7/A(2) F/A(2)   Am(2)
+Fly like an eagle    till I'm free
+Am(2)     Dm7/A(2) F/A(2) Am(2)
+Oh, Lord, through  the    revolution
+
+POST-CHORUS:
+Am                                           Am                
+Time keeps on  slippin', slippin' (Am D Am), slippin' (Mid Am) into the 
+Am       Am
+future.  (Trem: G-D-Am-D)
+Am                                           Am
+Time keeps on  slippin', slippin', (Am D Am) slippin' into the (/A5)
+Am        Am 
+future.  (Trem:G-D-Am-D + Synth:A11)
+
+
+BRIDGE 1:
+Am   G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+     G    Am    
+Doo, doo, doodoo
+
+
+CHORUS 2:
+         Am            D  
+I wan to fly like an eagle
+Dm7          Am 
+   To the sea
+              D  
+Fly like an eagle
+          Dm7         Am 
+Let my spirit carry me
+                        D  
+I want to fly like an eagle
+Dm7             Am 
+   'Til I'm free
+          D               Dm7   Am 
+Oh, Lord, through the revolution
+
+
+BRIDGE 2:
+Am D Dm7 Am 
+Am D Dm7 Am 
+
+
+INTERLUDE:
+Am                           
+Tick tock tick Doo doo doodoo
+Tick tock tick
+Tick tock tick Doo doo doodoo
+Tick tock tick Doo doo doodoo
+Tick tock tick Doo doo doodoo
+
+
+OUTRO:
+Am                                        
+Time keeps on slippin', slippin', slippin'
+Into the future
+Time keeps on slippin', slippin', slippin'
+Into the future
