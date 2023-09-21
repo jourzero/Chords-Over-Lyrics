@@ -4,135 +4,199 @@ Duration: 4:05
 Key: Am
 Tempo: 98
 
-/NOTE: This is Eric's learning sheet. It is not intended for band practice but it could be sanitized later for that purpose.
+/NOTE: Annotated for keyboard. Not for band practice but it could be sanitized later for that purpose.
 
-SPACE INTRO: 
-     Am
+
+&purple:SPACE INTRO: 
+     Am                        Am
 &red:(synth: wind/f#4, a1-e4, spaceship/f4) (x3, slower to faster)
+     Am                        Am
 &red:(synth: a1-e2,a1-d4)
+     Am                        Am
 &red:(synth: a1-e2,a1-e4) (x3)
+     Am                        Am
 &red:(synth: wind+wah)
 
-INTRO 1:
+
+&orange:*Press PLAY
+
+
+&purple:INTRO:
      Am7               Am7
 &red:(guitar riff...)
-     Am7               Am7
-&red:(+drums)          (+ organ)
 
-INTRO 2:
-Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
-Tick  tock tick. Doo doo doodoo.             (High A5\)
-Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
-Tick  tock tick. Doo doo doodoo.             (High D-Am)
-Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
-Tick  tock tick. Doo doo doodoo.             (Med D-Am)
-Am(1) G(1) Am(2)                Am(1) G(1) Am(2)
-Tick  tock tick. Doo doo doodoo.             (High /A5)
+     Am7                              Am7
+&red:(+drums: toms with guitar riff)  (+ organ)
 
-PRE-CHORUS:
-Am                                          Am                
-Time keeps on slippin', slippin', (Am-D-Am) slippin' into the (/A5)
-Am                 Am
-future. (Am-D-Am)  (A5\)
-Am                                 Am
-Time keeps on  slippin', slippin', slippin' into the 
-Am        Am 
-future.       I wanna
-
-CHORUS 1:
-Am(2)       Dm7/A(2) F/A(2) Am(2)
-Fly like an eagle    to the sea
-Am(2)       Dm7/A(2) F/A(2)        Am(2)
-Fly like an eagle,   let my spirit carry me. I wanna
-Am(2)       Dm7/A(2) F/A(2)   Am(2)
-fly like an eagle    till I'm free
-Am(2)       Dm7/A(2) F/A(2) Am(2)
-Oh, Lord,   through  the    revolution
-
-VERSE 2:
-Am                        Dm7/A
-Feed the babies who don't have enough to eat
-F/A                       Am
-Shoe the children with no shoes on their feet
-Am                      Dm7/A
-House the people livin' in the street
-F/A                  Am
-Oh, oh,  there's a solution. I want to
-
-CHORUS 2:
-Am(2)       Dm7/A(2) F/A(2) Am(2)
-Fly like an eagle    to the sea
-Am(2)       Dm7/A(2) F/A(2)        Am(2)
-Fly like an eagle,   let my spirit carry me. I want to
-Am(2)       Dm7/A(2) F/A(2)   Am(2)
-Fly like an eagle    till I'm free
-Am(2)     Dm7/A(2) F/A(2) Am(2)
-Oh, Lord, through  the    revolution
-
-POST-CHORUS:
-Am                                           Am                
-Time keeps on  slippin', slippin' (Am D Am), slippin' (Mid Am) into the 
-Am       Am
-future.  (Trem: G-D-Am-D)
 Am                                           Am
-Time keeps on  slippin', slippin', (Am D Am) slippin' into the (/A5)
+Tick tock tick.(Am Am) Doo doo doodoo. (Am-D-Am Am-Am Am\)
+
+Am                               Am
+Tick tock tick. Doo doo doodoo.    (D-Am)
+
+Am                               Am
+Tick tock tick. Doo doo doodoo.    (Am-D)
+
+Am                               Am
+Tick tock tick. Doo doo doodoo.    (/Am)
+
+
+# At 00:30
+&purple:PRE-CHORUS:
+Am                                Am                
+Time keeps on slippin', slippin', slippin' into the (/Am)
+
+Am       Am
+future.  (Am\)
+
+Am                                 Am
+Time keeps on  slippin', slippin', slippin' into the (... Am-D)
+
+Am        Am 
+future.      I wanna
+
+
+# At 00:50
+&purple:CHORUS 1:
+Am(2)       D7/A(2) F/A(2) Am(2)
+Fly like an eagle   to the sea (chords inversions go up)
+
+Am(2)       D7/A(2) F/A(2)        Am(2)
+Fly like an eagle,  let my spirit carry me. I wanna
+
+Am(2)       D7/A(2) F/A(2)   Am(2)
+fly like an eagle   till I'm free
+
+Am(2)    D7/A(2) F/A(2) Am(2)
+Oh Lord, through the    revolution
+
+
+# At 1:10
+&purple:VERSE 1:
+&red:(gentle organ) 
+         Am         D7/A
+Feed the babies who don't have enough to eat
+
+         F/A              Am
+Shoe the children with no shoes on their feet
+
+          Am                   D7/A
+House the people livin' in the street (wind)
+
+F/A                  Am
+Oh, oh,  there's a solution. I want to 
+
+
+# At 1:29
+&purple:CHORUS 2:
+&red:(aggressive organ)
+Am(2)       D7/A(2) F/A(2) Am(2)
+Fly like an eagle   to the sea (chords go up)
+
+Am(2)       D7/A(2) F/A(2)        Am(2)
+Fly like an eagle,  let my spirit carry me. I want to
+
+Am(2)       D7/A(2) F/A(2)   Am(2)
+Fly like an eagle   till I'm free
+
+Am(2)   D7/A(2) F/A(2) Am(2)
+Fly-yy  through the    revolution
+
+
+# At 1:49
+&purple:POST-CHORUS:
+Am                                Am                
+Time keeps on slippin', slippin', slippin' into the (Am7 Am7) 
+
+Am       Am
+future.     (Trem: G-D-Am-Am)
+
+Am                                          Am
+Time keeps on slippin', slippin', (Am D Am) slippin' into the (/Am)
+
+Am        Am 
+future.  (Trem:D-G-Am-D + Synth:A11)
+
+Am                                Am                
+Time keeps on slippin', slippin', slippin' (D-Am) 
+
+
+         Am       Am
+into the future.    (Trem: G-D-Am-D)
+
+Am                                 Am
+Time keeps on  slippin', slippin', slippin' into the (/Am)
+
 Am        Am 
 future.  (Trem:G-D-Am-D + Synth:A11)
 
 
-BRIDGE 1:
-Am   G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
-     G    Am    
-Doo, doo, doodoo
+# At 2:28
+&purple:BRIDGE 1:
+Am                Am
+Doo, doo, doodoo. Doo doo doodoo. 
+
+Am                Am
+Doo, doo, doodoo. Doo doo doodoo. 
+
+Am                Am
+Doo, doo, doodoo. Doo doo doodoo. 
+
+Am                Am
+Doo, doo, doodoo. Doo doo doodoo. I want to...
 
 
-CHORUS 2:
-         Am            D  
-I wan to fly like an eagle
-Dm7          Am 
-   To the sea
-              D  
-Fly like an eagle
-          Dm7         Am 
-Let my spirit carry me
-                        D  
-I want to fly like an eagle
-Dm7             Am 
-   'Til I'm free
-          D               Dm7   Am 
-Oh, Lord, through the revolution
+# At 2:47
+&purple:CHORUS 3:
+Am(2)       D7/A(2) F/A(2) Am(2)
+Fly like an eagle   to the sea (chords go up)
+
+Am(2)       D7/A(2) F/A(2)        Am(2)
+Fly like an eagle,  let my spirit carry me. I want to
+
+Am(2)       D7/A(2) F/A(2)   Am(2)
+Fly like an eagle   till I'm free
+
+Am(2)    D7/A(2) F/A(2) Am(2)
+Rii-ight through the    revolution
 
 
-BRIDGE 2:
-Am D Dm7 Am 
-Am D Dm7 Am 
+# At 3:06
+&purple:BRIDGE 2:
+&red:(gentle organ)
+Am     D7/A      F/A     Am 
+(instrumental)
+
+Am     D7/A      F/A     Am 
+(instrumental)
 
 
-INTERLUDE:
-Am                           
-Tick tock tick Doo doo doodoo
-Tick tock tick
-Tick tock tick Doo doo doodoo
-Tick tock tick Doo doo doodoo
-Tick tock tick Doo doo doodoo
+# At 3:26 
+&purple:INTERLUDE:
+&red:(aggressive organ)
+Am                              Am
+Tick tock tick. Doo doo doodoo. Tick tock tick. (Trem:G-D-Am)
+
+Am                              Am
+Tick tock tick. Doo doo doodoo.    (/Am)
+
+Am                              Am
+Tick tock tick. Doo doo doodoo.   (Trem:G-D-Am-D)
+
+Am                              Am
+Tick tock tick. Doo doo doodoo.   (/Am)
 
 
-OUTRO:
-Am                                        
-Time keeps on slippin', slippin', slippin'
-Into the future
-Time keeps on slippin', slippin', slippin'
-Into the future
+# At 3:36
+&purple:OUTRO: 
+Am                                Am      
+Time keeps on slippin', slippin', slippin' into the
+
+Am      Am
+future.
+
+Am                                Am
+Time keeps on slippin', slippin', slippin' into the 
+
+Am          Am
+future.     (END)

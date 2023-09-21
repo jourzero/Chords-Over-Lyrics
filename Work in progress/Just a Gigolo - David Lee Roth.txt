@@ -1,0 +1,105 @@
+Just a Gigolo
+Artist: David Lee Roth (Louis Prima cover)
+Duration: 4:38
+Key: G
+Tempo: 124
+
+/NOTE: Song is on Ab key. This file assumes +1 detuning (capo on 1st fret).
+
+
+Intro:
+             G                Am(2)   D7(2)
+&red:(snare) (instrumental)
+
+     G                Am(2)   D7(2)
+&red:(instrumental)
+
+Verse:
+G              Gmaj7            G6(2)           A#dim7(2) Am(2)  D(2)
+Just a gigolo, everywhere I go, People know the part, I'm playing
+D7                    D9                    D             G6    
+Paid for every dance, Selling each romance, Ooh what they saying
+           G7              F                    E7                           Am7 
+There will come a day when youth will pass away, what will they say about me 
+         Am7(2)      Cm(2)             G(2)   E7(2)
+When the end comes I know, They'll say just a gigolo,
+Am7(2)    D(2)       G             
+Life goes on without me. I'm...
+
+Verse:
+G              Gmaj7            G6(2)           A#dim7(2) Am(2)  D(2)
+Just a gigolo, everywhere I go, People know the part, I'm playing
+D7                    D9                    D             G6    
+Paid for every dance, Selling each romance, Ooh what they saying
+           G7              F                    E7                           Am 
+There will come a day when youth will pass away, what will they say about me 
+         Am7(2)      Cm(2)             G(2)   E7(2)   
+When the end comes I know, They'll say just a gigolo, 
+
+&red:(pause instruments)
+
+A(NC)                       (NC)
+(pause)Life goes on without me. 'cause...
+
+Chorus:
+G(5) F#(1) F(1) E(1) E  E          Am7          Am7    G      G           
+I    ain't got  nooo-bo-dy, nobody cares for me, nobody nobody cares for me
+G(5) F#(1) F(1) E(1) E      E                          A7        
+I'm  so    sad  and  looone-ly, Sad and lonely sad and lonely
+                 Am7                               
+Won't some sweet mama, Come and take a chance with me
+Am7/D            D7
+Cause I ain't so bad.
+
+Bridge:
+                  G                 G           Am7/G      Am7/G 
+Get along with me babe, Been singin love songs, All of the time
+     E7             E7           
+Even only be, honey only, only be
+A9                           (NC)         
+(pause)Bop bozdee bozdee bop zitty bop
+
+G(5) F#(1) F(1) E(1) E  E          Am7          Am7    G                  
+I    ain't got  nooo-bo-dy, nobody cares for me, nobody nobody cares for me
+
+/(WIP: Adjust the rest with audio)
+
+Break:
+G E7 Am D7 G 
+&red:(sax solo)
+G Gb F E7 A7 D7 
+&red:(sax solo)
+G E7 A 
+&red:(sax solo)
+
+D7                                                               
+Hummala bebhuhla zeebuhla boobuhla, Hummala bebhuhla zeebuhla bop
+
+Chorus:
+G F#    F   E              Am            D7     G                  
+I ain't got nobody, nobody cares for me, nobody nobody cares for me
+G   Gb F   E                          A7            
+I'm so sad and lonely, Sad and lonely sad and lonely
+                                                   D7 
+Won't some sweet mama, Come and take a chance with me
+
+Cause I ain't so bad
+
+Bridge:
+                             G                 C               
+Get along with me babe, Been singin love songs, All of the time
+     E7                          
+Even only be, honey only, only be
+
+      Am        D7            G               Gb      F  E7 
+Sweet love, go, darlin, mama, baby, sweet, got  nobody   
+       Am                D7                G                 E7             
+I love nobody, (nobody), nobody, (nobody), nobody, (nobody), nobody (nobody)
+
+Outro:
+Am              D7               G  
+Nobody (Nobody) nobody cares for me.
+
+(Chords Used)
+A#dim7: A#-C#-E-G (played as A#-C#-E)
+D9: D-F#-A-C-E (played as C-D-F#l
