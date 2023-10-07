@@ -1,9 +1,8 @@
 README.txt
 
 SUBJECT: OnSong Chords & Lyrics Formatting Intro
-AUTHOR: Eric
 
-This folder contains text files to use as source for Chords & Lyrics to be imported into Jacques' tablet and his OnSong app (used during our rehearsals).
+This folder contains text files to use as source for Chords & Lyrics to be imported into the OnSong app (used during our rehearsals).
 
 WARNING: The .txt files cannot be edited directly using Google Docs. A "plain text file editor" is needed instead.
 
@@ -59,7 +58,7 @@ COMMENTS
 For adding comments in the file that won't be shown while performing, prepend the line with a pound (#). Ref.: https://onsongapp.com/docs/features/formats/onsong/chords/#comments 
 
 For example:
-# Rick please add some chords here to support your solo
+# TODO: Add some chords below to support solo
 
 
 COLORING AND TEXT FORMATTING
