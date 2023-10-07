@@ -1,0 +1,145 @@
+A Whiter Shade of Pale
+Artist: Procol Harum
+Duration: 4:09
+Key: C
+Tempo: 74
+
+&red:/NOTE: Chords last 2 beats unless otherwise specified.
+
+&green:INTRO:
+     C        Em/B    Am    C/G
+&red:(organ + drums + bass)  
+
+     F        Am/E    Dm    F/C 
+&red:(organ + drums + bass)  
+
+     G        G/F     Em    G/D
+&red:(organ + drums + bass)  
+
+     C        F       G     F(1) G(1)
+&red:(organ + drums + bass)  
+
+
+&green:VERSE 1:
+
+C   Em/B              Am       C/G
+ We skipped the light fandango
+
+F       Am/E                     Dm       F/C
+ Turned cartwheels is 'cross the floor
+
+G      G/F           Em      G/D
+ I was feeling kinda seasick
+
+
+C        Em/B             Am       C/G
+ But the crowd called out for more
+
+F    Am/E             Dm      F/C
+ The room was humming harder
+
+G       G/F          Em  G/D
+ As the ceiling flew away
+
+
+C        Em/B           Am            C/G
+ When we called out for another drink
+
+F    Am/E             Dm7   Em/G
+ The waiter brought a tray
+
+
+&green:CHORUS 1:
+
+          C  Em/B     Am    C/G
+And so it was    that later
+
+F   Am/E                Dm   F/C
+ As the miller told his tale
+
+G     G/F                     Em      G/D
+ That her face, at first just ghostly,
+
+         C      F        C   Gsus4(1) G(1)
+Turned a whiter shade of pale
+ 
+
+&green:INTERLUDE:
+     C        Em/B    Am    C/G
+&red:(organ + drums + bass)  
+
+     F        Am/E    Dm    F/C 
+&red:(organ + drums + bass)  
+
+     G        G/F     Em    G/D
+&red:(organ + drums + bass)  
+
+     C        F       G     F(1) G(1)
+&red:(organ + drums + bass)  
+
+
+&green:VERSE 2:
+
+C Em/B                  Am     C/G
+  She said, There is no reason
+
+F        Am/E              Dm   F/C
+ And the truth is plain to see.
+
+G      G/F                 Em           G/D
+ But I wandered through my playing cards
+
+
+C          Em/B        Am  C/G
+ And would not let her be
+
+F       Am/E           Dm      F/C
+ One of sixteen vestal virgins
+
+G            G/F          Em   G/D
+ Who were leaving for the coast
+
+
+C    Em/B            Am          C/G
+ And although my eyes   were open
+
+F           Am/E                      Dm7      Em/G
+ They might have just as well've been closed
+ 
+
+&green:CHORUS 2:
+
+          C  Em/B     Am    C/G
+And so it was    that later
+
+F   Am/E                Dm   F/C
+ As the miller told his tale
+
+G         G/F                 Em        G/D
+ That her face, at first just ghostly,
+
+         C      F        C/G  Gsus4(1) G(1)
+Turned a whiter shade of pale
+
+
+&green:OUTRO:
+     C        Em/B    Am    C/G
+&red:(organ + drums + bass)  
+
+     F        Am/E    Dm    F/C 
+&red:(organ + drums + bass)  
+
+     G        G/F     Em    G/D
+&red:(organ + drums + bass)  
+
+     C        F       G     F(1) G(1)
+&red:(organ + drums + bass)  
+
+# &red:!Fade-out chorus...
+# 
+#           C  Em/B       Am  C/G
+# And so it was    that later
+# 
+# F   Am/E                Dm      F/C
+#  As the miller told his tale...
+
