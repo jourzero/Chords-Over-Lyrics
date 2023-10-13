@@ -6,21 +6,21 @@ Tempo: 74
 
 &red:/NOTE: Chords last 2 beats unless otherwise specified.
 
-&green:INTRO:
-     C        Em/B    Am    C/G
-&red:(organ + drums + bass)  
+&pink:INTRO:
+C        Em/B    Am    C/G
+(organ + drums + bass)  
 
-     F        Am/E    Dm    F/C 
-&red:(organ + drums + bass)  
+F        Am/E    Dm    F/C 
+(organ + drums + bass)  
 
-     G        G/F     Em    G/D
-&red:(organ + drums + bass)  
+G        G/F     Em    G/D
+(organ + drums + bass)  
 
-     C        F       G     F(1) G(1)
-&red:(organ + drums + bass)  
+C        F       G     F(1) G(1)
+(organ + drums + bass)  
 
 
-&green:VERSE 1:
+&pink:VERSE 1:
 
 C   Em/B              Am       C/G
  We skipped the light fandango
@@ -49,7 +49,7 @@ F    Am/E             Dm7   Em/G
  The waiter brought a tray
 
 
-&green:CHORUS 1:
+&pink:CHORUS 1:
 
           C  Em/B     Am    C/G
 And so it was    that later
@@ -64,21 +64,21 @@ G     G/F                     Em      G/D
 Turned a whiter shade of pale
  
 
-&green:INTERLUDE:
-     C        Em/B    Am    C/G
-&red:(organ + drums + bass)  
+&pink:INTERLUDE:
+C        Em/B    Am    C/G
+(organ + drums + bass)  
 
-     F        Am/E    Dm    F/C 
-&red:(organ + drums + bass)  
+F        Am/E    Dm    F/C 
+(organ + drums + bass)  
 
-     G        G/F     Em    G/D
-&red:(organ + drums + bass)  
+G        G/F     Em    G/D
+(organ + drums + bass)  
 
-     C        F       G     F(1) G(1)
-&red:(organ + drums + bass)  
+C        F       G     F(1) G(1)
+(organ + drums + bass)  
 
 
-&green:VERSE 2:
+&pink:VERSE 2:
 
 C Em/B                  Am     C/G
   She said, There is no reason
@@ -107,7 +107,7 @@ F           Am/E                      Dm7      Em/G
  They might have just as well've been closed
  
 
-&green:CHORUS 2:
+&pink:CHORUS 2:
 
           C  Em/B     Am    C/G
 And so it was    that later
@@ -122,24 +122,23 @@ G         G/F                 Em        G/D
 Turned a whiter shade of pale
 
 
-&green:OUTRO:
-     C        Em/B    Am    C/G
-&red:(organ + drums + bass)  
+&pink:OUTRO:
+C        Em/B    Am    C/G
+(organ + drums + bass)  
 
-     F        Am/E    Dm    F/C 
-&red:(organ + drums + bass)  
+F        Am/E    Dm    F/C 
+(organ + drums + bass)  
 
-     G        G/F     Em    G/D
-&red:(organ + drums + bass)  
+G        G/F     Em    G/D
+(organ + drums + bass)  
 
-     C        F       G     F(1) G(1)
-&red:(organ + drums + bass)  
+C        F       G     F(1) G(1)
+(organ + drums + bass)  
 
-# &red:!Fade-out chorus...
-# 
-#           C  Em/B       Am  C/G
-# And so it was    that later
-# 
-# F   Am/E                Dm      F/C
-#  As the miller told his tale...
+&red:!Repeat chorus and fade out...
 
+          C  Em/B     Am    C/G
+And so it was    that later
+
+F   Am/E                Dm   F/C
+ As the miller told his tale
