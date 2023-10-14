@@ -1,0 +1,130 @@
+Maybe I'm Amazed
+Paul McCartney
+Key: F
+Duration: 3:52
+Tempo: 80
+
+
+&pink:Intro:
+A       D/F#(2)  Dm/F(2)  Em7(2)  
+(piano)
+
+A7      A7
+(piano)
+
+
+&pink:Verse 1:
+Bb(2)      F/A(2)                C(2)            G/B(2)
+ Maybe I'm amazed at the way you love me all the time
+
+Bb(2)           F/A(2)             C       
+ And maybe I'm afraid of the way I love you (chromatic ascent)
+
+Bb(2)       F/A(2)               C(2)             G/B(2)
+ Maybe I'm amazed at the way you pulled me out of time
+
+    Bb(2)        F/A(2)    Ab(2)              Eb/G(2)
+You hung me on a line and maybe I'm amazed at the way
+
+         C7
+I really need you
+
+
+&pink:Chorus:
+D(2)         Dmaj7(2)         D7(2)                   C/D(2)
+ Baby, I'm a man, maybe I'm a lonely man who's in the middle 
+
+       G                                 D  
+of something that he doesn't really understand.
+
+D(2)         Dmaj7(2)                 D7(2)                C/D(2)
+ Baby, I'm a man and maybe you're the only woman who could ever help me
+
+G                               D/F#(2)   Dm/F(2)   Em7(2)   A7(2)
+Baby won't you help me to understand               
+
+
+&pink:Guitar Solo:
+Bb(2)   F/A(2)   C(2)   G/B(2)
+(solo)
+
+Bb(2)   F/A(2)   C7
+(solo)
+
+Bb(2)   F/A(2)   C(2)   G/B(2)
+(solo)
+
+Bb(2)   F/A(2)   Ab(2)   Eb/G(2)   C7
+(solo)
+
+
+&pink:Chorus:
+D(2)         Dmaj7(2)         D7(2)                   C/D(2)
+ Baby, I'm a man, maybe I'm a lonely man who's in the middle 
+
+       G                                 D  
+of something that he doesn't really understand.
+
+D(2)         Dmaj7(2)                 D7(2)                C/D(2)
+ Baby, I'm a man and maybe you're the only woman who could ever help me
+
+G                               D/F#(2)   Dm/F(2)   Em7(2)   A7(2)
+Baby won't you help me to understand               
+
+
+&pink:Verse 2:
+Bb(2)      F/A(2)                   C(2)            G/B(2)
+ Maybe I'm amazed at the way you're with me all the time
+
+Bb(2)          F/A(2)              C 
+ And maybe I'm afraid of the way I need you
+
+Bb(2)      F/A(2)                C(2)            G/B(2)
+ Maybe I'm amazed at the way you help me sing my song
+
+    Bb(2)             F/A(2)    Ab(2)               Eb/G(2)
+You right me when I'm wrong and maybe I'm amazed at the way
+
+         C       
+I really need you.
+
+
+&pink:Interlude:
+
+D(2)   Dmaj7(2)  D7(2)   C/D(2)
+  Oh!    Oh!          Oh oh oh.
+
+G           D  
+    Eh, hey hey!
+
+D(2)   Dmaj7(2)  D7(2)   C/D(2)
+  Oh!    Oh!          Oh ooh ooh ooh ooh...
+
+G      D/F#(2)   Dm/F(2)   Em7(2)  A7(2)
+eh hey ee-yeah!     Oh ooh ooh ooh ooh ha.
+
+
+&pink:Guitar Solo 2:
+Bb(2)  F/A(2)   C(2) G/B(2)
+(solo)
+
+Bb(2)   F/A(2)   C7
+(solo)
+
+Bb(2)  F/A(2)   C(2) G/B(2)
+(solo)
+
+Bb(2)  F/A(2)   Ab(2) Eb/G(2)   
+(solo)
+
+C7
+(solo)
+
+
+&pink:Outro:
+
+D(2)     Dmaj7(2)   D7(2)   C/D(2)
+(organ)
+
+G       D
+(organ) (END)
