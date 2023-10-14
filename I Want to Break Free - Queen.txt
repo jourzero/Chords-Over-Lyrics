@@ -6,9 +6,11 @@ Duration: 3:41
 Key: E
 Tempo: 110
 
+
 &pink:INTRO:
      E       E         E      (NC)
 &red:(guitar strumming)       
+
 
 &pink:VERSE:
                 E     E          E          
@@ -29,6 +31,7 @@ I've got to break free
 A                         E   
 God knows I want to break free
 
+
 &pink:VERSE 2:
          (NC)           E    
 &yellow: I've fallen in love
@@ -44,6 +47,7 @@ I've fallen in love, yeah.
 
 E    B      A              E         E  
  God knows, God knows I've fallen in love
+
 
 &pink:BRIDGE:
      B                A         
@@ -67,6 +71,7 @@ want to be free
 A(2)      B(2)          E    (NC)
 Oh, how I want to break free.
 
+
 &pink:SOLO:
      E      E     E     E 
 &red:(synth solo)
@@ -76,6 +81,7 @@ Oh, how I want to break free.
 
      B      A     E    (NC)
 &red:(synth solo)      (wait for portamento end)
+
 
 &pink:INTERLUDE:
      E      E(3)    Esus4(1)   E   E 
@@ -89,6 +95,7 @@ Oh, how I want to break free.
 
      B      A       E     (NC)
 &red:(synth chords)       
+
 
 &pink:VERSE 3:
                     E  
@@ -108,6 +115,7 @@ I don't want to live  alone, hey
 
     B     A                    E   E 
 God knows got to make it on my own.
+
 
 &pink:OUTRO:
                    B    A                  E    
