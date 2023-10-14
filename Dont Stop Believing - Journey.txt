@@ -1,7 +1,6 @@
 Don't Stop Believin'
 Artist: Journey
 Key: E
-TransposedKey: C
 Tempo: 121
 # Adjusted duration for better autoscroll timing
 # Duration: 4:10

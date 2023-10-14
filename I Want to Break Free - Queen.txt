@@ -5,7 +5,6 @@ Artist: Queen
 Duration: 3:41
 Key: E
 Tempo: 110
-TransposedKey: Bb
 
 &pink:INTRO:
      E       E         E      (NC)
