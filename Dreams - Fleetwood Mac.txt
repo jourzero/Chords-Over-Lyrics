@@ -5,7 +5,7 @@ Duration: 4:34
 Key: Am
 
 
-&pink:Intro:
+&pink:INTRO:
 
         F             G         F         G     
 (drums) (bass+piano)            (+guitar)
@@ -14,7 +14,7 @@ F             G         F         G
 (instrumental)
 
 
-&pink:Verse 1:
+&pink:VERSE 1:
 
 F              G                 F             G
  Now there you go again, You say you want your freedom.
@@ -29,19 +29,19 @@ F          G                     F                G
 But listen carefully to the sound of your loneliness.
 
 
-&pink:Pre-Chorus:
+&pink:PRE-CHORUS:
 
        Fmaj7                G7          Fadd9        G7
 Like a heartbeat drives you mad, In the stillness of remembering,
 
              Fmaj7 G7                  Fadd9 G7
-What you had,        and what you lost,        and what you had,   
+what you had,        and what you lost,        and what you had,   
 
 Fmaj7 G7                  Fmaj7    G7
         and what you lost.
  
 
-&pink:Chorus:
+&pink:CHORUS1:
 
      Fmaj7        G7                Fadd9    G7
  Oh, thunder only happens when it's raining.
@@ -56,7 +56,7 @@ Fmaj7           G7             Fadd9        G7
 When the rain washes you clean you'll know.    You'll
 
 
-&pink:Interlude:
+&pink:INTERLUDE:
 
 F       G       G    F
 know.  (guitar)
@@ -65,7 +65,7 @@ A       G       G    F
 (guitar)
 
  
-&pink:Verse 2:
+&pink:VERSE 2:
 
 F           G           F               G
  Now here I go again, I see the crystal vision.
@@ -80,19 +80,19 @@ It's only me who wants to wrap around your dreams.
 And have you any dreams you'd like to sell?  Dreams of loneliness.
 
 
- &pink:Pre-Chorus:
+ &pink:PRE-CHORUS:
 
        Fmaj7                G7          Fadd9        G7
-Like a heartbeat drives you mad, In the stillness of remembering,
+Like a heartbeat drives you mad, In the stillness of remembering
 
              Fmaj7 G7                  Fadd9 G7
-What you had,        and what you lost,        and what you had,   
+what you had,        and what you lost,        and what you had,   
 
 Fmaj7 G7                  Fmaj7    G7
         and what you lost.
  
 
-&pink:Chorus:
+&pink:CHORUS2:
 
 Fmaj7        G7                Fadd9    G7
 Thunder only happens when it's raining.
@@ -119,7 +119,7 @@ Fmaj7           G7                    Fadd9  G7
 When the rain washes you clean you'll know.
 
 
-&pink:Outro:
+&pink:OUTRO:
 
        Fmaj7  G7         Fadd9 G7
 You'll know.    You will know. Oh, wooah wooah 
